@@ -29,6 +29,7 @@ node_modules
 # VitePress
 
 **/.vitepress/dist/*
+!**/.vitepress/dist/.gitkeep
 **/.vitepress/docsMetadata.json
 **/.vitepress/cache/
 
