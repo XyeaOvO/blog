@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "b9689cda153aa49b",
+    "type": "split",
+    "children": [
+      {
+        "id": "835cd6ca12476ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5bfd9ac1d6bff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt"
+            }
+          },
+          {
+            "id": "1ececcc7de65ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "9b1c8de35bb0d7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/十六届A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "十六届A"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6439c02696e2181c",
+    "type": "split",
+    "children": [
+      {
+        "id": "09a3b5790a443303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9570f173118835fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a90fe6a8372e2868",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fbe18071a6b0b066",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a7d1b0e350082c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a665d7057f67238f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc28885373ced48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/AI工具/CC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CC 的反向链接列表"
+            }
+          },
+          {
+            "id": "20953a887450b666",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian 最佳实践.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Obsidian 最佳实践 的出链列表"
+            }
+          },
+          {
+            "id": "0c51a199f8a6857d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "acf4efcaaf25fd0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/十六届A.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "十六届A 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "9b1c8de35bb0d7e7",
+  "lastOpenFiles": [
+    "数学/记住dA = dx dy = ρ dρ dθ这个公式.md",
+    "Prompt.md",
+    "数学/十六届A.md",
+    "数学",
+    "未命名.md",
+    "科研/杂项/@hydra.main(version_base=None).md",
+    "科研/杂项/`HF_HOME` 和 `HUGGINGFACE_HUB_CACHE` 这两个环境变量的说明.md",
+    "科研/pre-commit/不能提交.md",
+    "科研/杂项",
+    "科研/使用rerun可视化.md",
+    "科研/pre-commit",
+    "科研/深度学习/梯度合适范围.md",
+    "计算机/依赖/PyTorch 和 PyTorch3D 的最佳安装方法.md",
+    "科研/深度学习",
+    "计算机/conda/conda.md",
+    "科研/不同任务如何求解旋转矩阵.md",
+    "科研/旋转矩阵.md",
+    "计算机/在 WSL 上为 mcp 安装 uv 和 uvx.md",
+    "计算机/U盘/U盘启动盘恢复为普通U盘指南.md",
+    "计算机/U盘",
+    "计算机/依赖/如何自动分析报错.md",
+    "计算机/conda/Miniforge安装Mamba.md",
+    "计算机/依赖",
+    "计算机/conda/Mamba vs. Conda.md",
+    "计算机/Unicode区块.md",
+    "计算机/Unicode之所以有17个平面.md",
+    "AI/Agent/英语歌词学习.md",
+    "计算机/conda",
+    "课程/数字集成电路/第一章/第一章：引论.md",
+    "科研/未命名.md",
+    "科研/矩阵乘法.md",
+    "科研/判断左右手坐标系.md",
+    "计算机/未命名.md",
+    "AI/Agent",
+    "课程/操作系统/Pic/Pasted image 20250918121653.png",
+    "课程/操作系统/Pic/Pasted image 20250918121027.png",
+    "课程/操作系统/Pic/Pasted image 20250918115721.png",
+    "课程/操作系统/Pic/Pasted image 20250918110907.png",
+    "课程/操作系统/Pic/Pasted image 20250918110904.png",
+    "课程/操作系统/Pic/Pasted image 20250918110847.png",
+    "课程/操作系统/Pic",
+    "课程/操作系统",
+    "课程/数字集成电路/第一章/Pic/Pasted image 20250917222749.png",
+    "课程/数字集成电路/第一章/Pic/Pasted image 20250917222728.png",
+    "课程/数字集成电路/第一章/Pic/Pasted image 20250917222442.png",
+    "课程/数字集成电路/第一章/Pic/Pasted image 20250917220716.png"
+  ]
+}

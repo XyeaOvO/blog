@@ -2,7 +2,7 @@
 
 VGGT（Visual Geometry Grounded Transformer）是一个前馈神经网络，旨在直接从一个、少量甚至数百个图像视图中推断出场景的所有关键3D属性。它的整体流程包括以下主要部分：
 
-### VGGT 完整流水线详解
+### VGGT 完整流水线
 
 **1. 输入 (Input)**
 VGGT接收一个包含$N$张RGB图像的序列$I = (I_i)_{i=1}^N$作为输入，其中每张图像$I_i$的大小为$R^{3 \times H \times W}$。这些图像观察的是同一个3D场景。
