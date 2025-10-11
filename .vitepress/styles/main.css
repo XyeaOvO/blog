@@ -293,7 +293,7 @@ html, body {
   position: fixed; /* 或 absolute，根据你想要的滚动效果调整 */
   inset: 0;
   background: url('/backgrounds/homepage-bg.jpg') center/cover no-repeat;
-  opacity: 0.25;
+  opacity: 0.5;
   pointer-events: none;
   z-index: -1;
 }
