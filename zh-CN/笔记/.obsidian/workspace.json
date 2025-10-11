@@ -154,7 +154,7 @@
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "源代码管理"
             }
           }
         ],
@@ -176,10 +176,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "i18n:I18N": false
+      "i18n:I18N": false,
+      "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "9570f173118835fc",
+  "active": "4a792d4b0f6c762f",
   "lastOpenFiles": [
     "科研/论文/未命名.md",
     "科研/未命名.md",
