@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/依赖/未命名.md",
+                "file": "课程/数字集成电路/第一章/第一章：引论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "第一章：引论"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "afe7b465c9d81847",
   "lastOpenFiles": [
+    "课程/数字集成电路/第一章/电子器件演进三部曲.md",
+    "课程/数字集成电路/第一章/具体复合门设计流程.md",
+    "课程/数字集成电路/第一章/简化电路模型是怎么来的.md",
+    "课程/数字集成电路/第一章/第一章：引论.md",
     "计算机/依赖/PyTorch 和 PyTorch3D 的最佳安装方法.md",
     "计算机/依赖/未命名.md",
     "计算机/依赖/使用信号量解决生产者-消费者问题.md",
@@ -193,7 +197,6 @@
     "Prompt.md",
     "科研/论文/未命名.md",
     "科研/未命名.md",
-    "课程/数字集成电路/第一章/第一章：引论.md",
     "科研/论文/论文分享 - MapAnything：通用的前馈式度量三维重建.md",
     "科研/论文/Pic/Pasted image 20251010192747.png",
     "科研/论文/Pic/Pasted image 20251010192732.png",
@@ -222,9 +225,6 @@
     "计算机/conda/venv/venv使用.md",
     "计算机/conda/venv",
     "计算机/conda/conda.md",
-    "计算机/依赖/如何自动分析报错.md",
-    "计算机/conda/Mamba vs. Conda.md",
-    "计算机/conda/Miniforge安装Mamba.md",
     "数学",
     "科研/杂项",
     "科研/pre-commit",
