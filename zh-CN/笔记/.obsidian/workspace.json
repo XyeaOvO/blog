@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0c53bff5496a64",
+        "id": "315bd763a2541f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "a842505d281af114",
+            "id": "4bc2274713fa4913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/论文/论文分享 - MapAnything：通用的前馈式度量三维重建.md",
+                "file": "课程/操作系统/03-process-cn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文分享 - MapAnything：通用的前馈式度量三维重建"
-            }
-          },
-          {
-            "id": "2ae02b76aa507909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/操作系统/01-start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-start"
+              "title": "03-process-cn"
             }
           }
         ]
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/论文/论文分享 - MapAnything：通用的前馈式度量三维重建.md",
+                "file": "课程/操作系统/03-process-cn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文分享 - MapAnything：通用的前馈式度量三维重建 的大纲"
+              "title": "03-process-cn 的大纲"
             }
           },
           {
@@ -197,10 +183,22 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "a842505d281af114",
+  "active": "acf4efcaaf25fd0d",
   "lastOpenFiles": [
-    "课程/操作系统/02-overview.md",
+    "课程/操作系统/Pic/Pasted image 20251014204756.png",
+    "课程/操作系统/Pic/Pasted image 20251014203203.png",
+    "课程/操作系统/Pic/Pasted image 20251014202342.png",
+    "课程/操作系统/Pic/Pasted image 20251014202319.png",
+    "课程/操作系统/Pic/Pasted image 20251014202058.png",
+    "Prompt.md",
+    "课程/操作系统/03-process-cn.md",
     "课程/操作系统/01-start.md",
+    "课程/Inbox/形势与政策.md",
+    "课程/Inbox/Pic/Pasted image 20251014200531.png",
+    "课程/Inbox/Pic",
+    "科研/论文/论文分享 - MapAnything：通用的前馈式度量三维重建.md",
+    "课程/Inbox",
+    "课程/操作系统/02-overview.md",
     "计算机/WSL 安装配置全流程.md",
     "课程/操作系统/计组核心知识.md",
     "课程/操作系统/虚拟机下载.md",
@@ -213,37 +211,25 @@
     "计算机/依赖/使用信号量解决生产者-消费者问题.md",
     "个人/未命名.md",
     "个人/护肤.md",
-    "Prompt.md",
     "科研/论文/未命名.md",
     "科研/未命名.md",
-    "科研/论文/论文分享 - MapAnything：通用的前馈式度量三维重建.md",
     "科研/论文/Pic/Pasted image 20251010192747.png",
     "科研/论文/Pic/Pasted image 20251010192732.png",
     "科研/论文/Pic/Pasted image 20251010191822.png",
     "科研/论文/Pic/Pasted image 20251010191752.png",
     "科研/论文/Pic/Pasted image 20251010191433.png",
     "科研/论文/未命名 1.md",
-    "科研/论文/Pic/Pasted image 20251010185756.png",
-    "科研/论文/Pic/Pasted image 20251010132333.png",
-    "科研/论文/Pic/Pasted image 20251010132316.png",
     "科研/论文/Pic",
     "课程/数字集成电路/第二章/第二章 MOS 晶体管原理.md",
     "科研/论文",
     "课程/数字集成电路/第一章/第一次作业Verilog部分.md",
-    "课程/数字集成电路/第二章/Pic/Pasted image 20251008215741.png",
-    "课程/数字集成电路/第二章/Pic/Pasted image 20251008213902.png",
     "课程/数字集成电路/第一章/版图.md",
     "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
     "课程/数字集成电路/第二章/Pic",
-    "课程/数字集成电路/第一章/未命名.md",
-    "课程/数字集成电路/第一章/未命名 1.md",
-    "计算机/如何让模型只在给定的gpu上面运行.md",
     "计算机/conda/venv",
     "数学",
     "科研/杂项",
     "科研/pre-commit",
-    "科研/深度学习",
-    "计算机/U盘",
-    "计算机/依赖"
+    "科研/深度学习"
   ]
 }
