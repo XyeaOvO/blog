@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f43f9fada2cf9b07",
+        "id": "c8fdace0260a607d",
         "type": "tabs",
         "children": [
           {
-            "id": "b48dbae18d77f77e",
+            "id": "c27b8068e5b79397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/数字集成电路/第三章/第三章：CMOS 工艺技术.md",
+                "file": "课程/数字集成电路/第四章/延时分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三章：CMOS 工艺技术"
+              "title": "延时分析"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字集成电路/第三章/第三章：CMOS 工艺技术.md",
+                "file": "课程/数字集成电路/第四章/延时分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第三章：CMOS 工艺技术 的大纲"
+              "title": "延时分析 的大纲"
             }
           },
           {
@@ -183,23 +183,26 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "b48dbae18d77f77e",
+  "active": "c27b8068e5b79397",
   "lastOpenFiles": [
+    "课程/数字集成电路/第四章/Pic/Pasted image 20251015115748.png",
+    "课程/数字集成电路/第四章/Pic",
+    "Prompt.md",
+    "课程/数字集成电路/第四章/延时分析.md",
+    "课程/数字集成电路/第四章",
+    "课程/数字集成电路/第三章/第三章：CMOS 工艺技术.md",
+    "课程/数字集成电路/第三章/Pic/Pasted image 20251015113821.png",
+    "课程/数字集成电路/第三章/Pic/Pasted image 20251015111913.png",
+    "课程/数字集成电路/第三章/Pic/Pasted image 20251015111906.png",
+    "课程/数字集成电路/第三章/Pic/Pasted image 20251015111904.png",
+    "课程/数字集成电路/第三章/Pic/Pasted image 20251015110728.png",
+    "课程/数字集成电路/第三章/Pic/Pasted image 20251015110627.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015110523.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015110249.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015110150.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015105749.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015105615.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015105612.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015105442.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015105043.png",
     "课程/数字集成电路/第一章/第一章：引论.md",
-    "课程/数字集成电路/第三章/第三章：CMOS 工艺技术.md",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015104721.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015104510.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015104507.png",
     "课程/数字集成电路/第三章/Pic",
-    "Prompt.md",
     "课程/数字集成电路/第三章",
     "课程/操作系统/06-4-monitors.md",
     "课程/操作系统/读者优先的读者写者同步-陈墨涵-2023212641.md",
@@ -224,12 +227,9 @@
     "计算机/依赖/未命名.md",
     "计算机/依赖/使用信号量解决生产者-消费者问题.md",
     "个人/未命名.md",
-    "个人/护肤.md",
     "科研/论文/Pic",
     "科研/论文",
     "课程/数字集成电路/第二章/Pic",
-    "计算机/conda/venv",
-    "数学",
-    "科研/杂项"
+    "计算机/conda/venv"
   ]
 }
