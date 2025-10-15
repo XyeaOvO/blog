@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52997db5cf743866",
+        "id": "a0a108d28369fc68",
         "type": "tabs",
         "children": [
           {
-            "id": "ff390390be8546b0",
+            "id": "69e26a95a124d8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a7d1b0e350082c0",
@@ -183,10 +184,19 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "ff390390be8546b0",
+  "active": "69e26a95a124d8f6",
   "lastOpenFiles": [
-    "Prompt.md",
+    "课程/操作系统/Pic/Pasted image 20251014224702.png",
+    "课程/操作系统/Pic/Pasted image 20251014224648.png",
+    "课程/操作系统/Pic/Pasted image 20251014224644.png",
+    "课程/操作系统/Pic/Pasted image 20251014224608.png",
+    "课程/操作系统/Pic/Pasted image 20251014224517.png",
+    "课程/操作系统/Pic/Pasted image 20251014224250.png",
+    "课程/操作系统/01-start.md",
+    "课程/操作系统/02-overview.md",
     "课程/操作系统/05-scheduling-cn.md",
+    "课程/操作系统/计组核心知识.md",
+    "Prompt.md",
     "课程/操作系统/04-threads-cn.md",
     "课程/操作系统/Pic/Pasted image 20251014215450.png",
     "课程/操作系统/Pic/Pasted image 20251014215317.png",
@@ -195,19 +205,11 @@
     "Obsidian 最佳实践.md",
     "课程/操作系统/03-process-cn.md",
     "课程/操作系统/Pic/Pasted image 20251014204756.png",
-    "课程/操作系统/Pic/Pasted image 20251014203203.png",
-    "课程/操作系统/Pic/Pasted image 20251014202342.png",
-    "课程/操作系统/Pic/Pasted image 20251014202319.png",
-    "课程/操作系统/Pic/Pasted image 20251014202058.png",
-    "课程/操作系统/01-start.md",
     "课程/Inbox/形势与政策.md",
-    "课程/Inbox/Pic/Pasted image 20251014200531.png",
     "课程/Inbox/Pic",
     "科研/论文/论文分享 - MapAnything：通用的前馈式度量三维重建.md",
     "课程/Inbox",
-    "课程/操作系统/02-overview.md",
     "计算机/WSL 安装配置全流程.md",
-    "课程/操作系统/计组核心知识.md",
     "课程/操作系统/虚拟机下载.md",
     "课程/数字集成电路/第一章/第一章：引论.md",
     "课程/数字集成电路/第一章/电子器件演进三部曲.md",
@@ -224,7 +226,6 @@
     "科研/论文/Pic",
     "课程/数字集成电路/第二章/第二章 MOS 晶体管原理.md",
     "科研/论文",
-    "课程/数字集成电路/第一章/第一次作业Verilog部分.md",
     "课程/数字集成电路/第二章/Pic",
     "计算机/conda/venv",
     "数学",
