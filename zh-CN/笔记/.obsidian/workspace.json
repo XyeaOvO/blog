@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/操作系统/06-2-semphores.md",
+                "file": "课程/操作系统/06-4-monitors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-2-semphores"
+              "title": "06-4-monitors"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/操作系统/06-2-semphores.md",
+                "file": "课程/操作系统/06-4-monitors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06-2-semphores 的大纲"
+              "title": "06-4-monitors 的大纲"
             }
           },
           {
@@ -200,13 +200,15 @@
   },
   "active": "fc984613ddc6fd6a",
   "lastOpenFiles": [
+    "课程/操作系统/Pic/Pasted image 20251015093136.png",
+    "Prompt.md",
+    "课程/操作系统/06-4-monitors.md",
+    "课程/操作系统/06-2-semphores.md",
     "课程/操作系统/Pic/Pasted image 20251015082124.png",
     "课程/操作系统/05-scheduling-cn.md",
-    "课程/操作系统/06-2-semphores.md",
     "课程/操作系统/计组核心知识.md",
     "课程/操作系统/04-threads-cn.md",
     "课程/操作系统/03-process-cn.md",
-    "Prompt.md",
     "课程/操作系统/Pic/Pasted image 20251014224702.png",
     "课程/操作系统/Pic/Pasted image 20251014224648.png",
     "课程/操作系统/Pic/Pasted image 20251014224644.png",
@@ -218,7 +220,6 @@
     "课程/操作系统/Pic/Pasted image 20251014215450.png",
     "课程/操作系统/Pic/Pasted image 20251014215317.png",
     "课程/操作系统/Pic/Pasted image 20251014215226.png",
-    "课程/操作系统/Pic/Pasted image 20251014215012.png",
     "Obsidian 最佳实践.md",
     "课程/Inbox/形势与政策.md",
     "课程/Inbox/Pic",
@@ -237,7 +238,6 @@
     "个人/护肤.md",
     "科研/论文/未命名.md",
     "科研/未命名.md",
-    "科研/论文/未命名 1.md",
     "科研/论文/Pic",
     "科研/论文",
     "课程/数字集成电路/第二章/Pic",
