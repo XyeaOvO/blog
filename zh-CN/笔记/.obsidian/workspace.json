@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/人工智能与机器学习/CNN/主题 L4：卷积神经网络 (Convolutional Neural Networks).md",
+                "file": "课程/脑认知/神经科学生物基础（一）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主题 L4：卷积神经网络 (Convolutional Neural Networks)"
+              "title": "神经科学生物基础（一）"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/人工智能与机器学习/CNN/主题 L4：卷积神经网络 (Convolutional Neural Networks).md",
+                "file": "课程/脑认知/神经科学生物基础（一）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "主题 L4：卷积神经网络 (Convolutional Neural Networks) 的大纲"
+              "title": "神经科学生物基础（一） 的大纲"
             }
           },
           {
@@ -185,12 +185,23 @@
   },
   "active": "b71d19a1feb6b9cc",
   "lastOpenFiles": [
+    "课程/脑认知/Pic/Pasted image 20251018115851.png",
+    "课程/脑认知/Pic/Pasted image 20251018115652.png",
+    "课程/脑认知/Pic/Pasted image 20251018114426.png",
+    "课程/脑认知/Pic/Pasted image 20251018114241.png",
+    "课程/脑认知/绪论.md",
+    "课程/脑认知/神经科学生物基础（一）.md",
+    "课程/脑认知/厘清认知和计算的关系.md",
+    "课程/脑认知/Pic/Pasted image 20251018112346.png",
+    "课程/脑认知/Pic/Pasted image 20251018112240.png",
+    "课程/脑认知/Pic",
+    "课程/人工智能与机器学习/CNN/主题 L4：卷积神经网络 (Convolutional Neural Networks).md",
+    "课程/脑认知",
     "课程/人工智能与机器学习/AI和ML的关系.md",
     "课程/人工智能与机器学习/不属于机器学习的人工智能实例.md",
     "课程/人工智能与机器学习/MOC-人工智能与机器学习.md",
     "课程/模拟集成电路/第二章/未命名.md",
     "课程/人工智能与机器学习/CNN/附加资料.md",
-    "课程/人工智能与机器学习/CNN/主题 L4：卷积神经网络 (Convolutional Neural Networks).md",
     "课程/人工智能与机器学习/CNN",
     "Prompt.md",
     "课程/数字集成电路/第三章/第三章：CMOS 工艺技术.md",
@@ -212,11 +223,6 @@
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015111913.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015111906.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015111904.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015110728.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015110627.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015110523.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015110249.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015110150.png",
     "课程/数字集成电路/第三章/Pic",
     "课程/数字集成电路/第三章",
     "课程/操作系统/06-4-monitors.md",
@@ -224,12 +230,6 @@
     "课程/操作系统/06-2-semphores.md",
     "课程/操作系统/05-scheduling-cn.md",
     "课程/操作系统/计组核心知识.md",
-    "课程/操作系统/04-threads-cn.md",
-    "课程/操作系统/03-process-cn.md",
-    "课程/操作系统/01-start.md",
-    "课程/操作系统/02-overview.md",
-    "Obsidian 最佳实践.md",
-    "课程/Inbox/Pic",
-    "课程/Inbox"
+    "课程/操作系统/04-threads-cn.md"
   ]
 }
