@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "643c35e94b46a582",
+        "id": "52da6ad63ec7a727",
         "type": "tabs",
         "children": [
           {
-            "id": "b71d19a1feb6b9cc",
+            "id": "a19a46b445bd17b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/脑认知/神经科学生物基础（一）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "神经科学生物基础（一）"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/脑认知/神经科学生物基础（一）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "神经科学生物基础（一） 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -183,14 +178,14 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "b71d19a1feb6b9cc",
+  "active": "a19a46b445bd17b1",
   "lastOpenFiles": [
+    "课程/脑认知/神经科学生物基础（一）.md",
     "课程/脑认知/Pic/Pasted image 20251018115851.png",
     "课程/脑认知/Pic/Pasted image 20251018115652.png",
     "课程/脑认知/Pic/Pasted image 20251018114426.png",
     "课程/脑认知/Pic/Pasted image 20251018114241.png",
     "课程/脑认知/绪论.md",
-    "课程/脑认知/神经科学生物基础（一）.md",
     "课程/脑认知/厘清认知和计算的关系.md",
     "课程/脑认知/Pic/Pasted image 20251018112346.png",
     "课程/脑认知/Pic/Pasted image 20251018112240.png",
@@ -222,7 +217,6 @@
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015113821.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015111913.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015111906.png",
-    "课程/数字集成电路/第三章/Pic/Pasted image 20251015111904.png",
     "课程/数字集成电路/第三章/Pic",
     "课程/数字集成电路/第三章",
     "课程/操作系统/06-4-monitors.md",
