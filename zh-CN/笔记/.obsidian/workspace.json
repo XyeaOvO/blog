@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/未命名.md",
+                "file": "脚本开发/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/未命名.md",
+                "file": "脚本开发/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,6 +185,9 @@
   },
   "active": "7c7fbcd06eacb97a",
   "lastOpenFiles": [
+    "计算机/未命名.md",
+    "脚本开发/未命名.md",
+    "脚本开发",
     "计算机/tmux.md",
     "前馈神经网络.md",
     "课程/人工智能与机器学习/Liner",
@@ -227,9 +230,6 @@
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015113821.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015111913.png",
     "课程/数字集成电路/第三章/Pic/Pasted image 20251015111906.png",
-    "课程/数字集成电路/第三章/Pic",
-    "课程/操作系统/06-4-monitors.md",
-    "课程/操作系统/读者优先的读者写者同步-陈墨涵-2023212641.md",
-    "课程/操作系统/06-2-semphores.md"
+    "课程/操作系统/06-4-monitors.md"
   ]
 }
