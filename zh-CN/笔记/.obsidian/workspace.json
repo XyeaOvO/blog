@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脚本开发/未命名.md",
+                "file": "脚本开发/重启 TypeScript 语言服务器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "重启 TypeScript 语言服务器"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脚本开发/未命名.md",
+                "file": "脚本开发/重启 TypeScript 语言服务器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "重启 TypeScript 语言服务器 的大纲"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "f769f0397a8219ca",
   "lastOpenFiles": [
-    "脚本开发/重启 TypeScript 语言服务器.md",
     "脚本开发/未命名.md",
+    "脚本开发/重启 TypeScript 语言服务器.md",
     "计算机/VScode快捷键.md",
     "计算机/未命名.md",
     "脚本开发",
