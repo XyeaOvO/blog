@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "计算机/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "计算机/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,10 +212,12 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "9570f173118835fc",
+  "active": "a4f690646474a77d",
   "lastOpenFiles": [
-    "科研/Pickle.md",
+    "计算机/扩展查找.md",
+    "计算机/终止tmux.md",
     "未命名.md",
+    "科研/Pickle.md",
     "脚本开发/Zsh + Oh My Zsh.md",
     "脚本开发/数据集.md",
     "脚本开发/Prompt.md",
@@ -249,8 +251,6 @@
     "Prompt.md",
     "课程/数字集成电路/第三章/第三章：CMOS 工艺技术.md",
     "课程/模拟集成电路/第一章/未命名 2.md",
-    "课程/模拟集成电路/第一章/未命名 1.md",
-    "课程/模拟集成电路/第一章/未命名.md",
     "课程/模拟集成电路/第二章",
     "课程/模拟集成电路/第一章",
     "课程/模拟集成电路",
