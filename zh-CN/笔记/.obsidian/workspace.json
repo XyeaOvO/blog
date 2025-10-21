@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脚本开发/Zsh + Oh My Zsh.md",
+                "file": "科研/Pickle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zsh + Oh My Zsh"
+              "title": "Pickle"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脚本开发/Zsh + Oh My Zsh.md",
+                "file": "科研/Pickle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Zsh + Oh My Zsh 的大纲"
+              "title": "Pickle 的大纲"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "6cde6fdcf98df049",
   "lastOpenFiles": [
-    "脚本开发/数据集.md",
     "脚本开发/Zsh + Oh My Zsh.md",
+    "科研/Pickle.md",
+    "脚本开发/数据集.md",
     "脚本开发/Prompt.md",
     "脚本开发/重启 TypeScript 语言服务器.md",
     "计算机/VScode快捷键.md",
@@ -237,7 +238,6 @@
     "课程/模拟集成电路/第一章/未命名.md",
     "课程/模拟集成电路/第一章/第一章：文明的基石 —— 集成电路的前世今生.md",
     "课程/模拟集成电路/第二章",
-    "课程/模拟集成电路/第一章/未命名 3.md",
     "课程/模拟集成电路/第一章",
     "课程/模拟集成电路",
     "课程/数字集成电路/第四章/Pic/Pasted image 20251015115748.png",
