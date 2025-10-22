@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md",
+                "file": "未命名 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "未命名 2 的大纲"
             }
           },
           {
@@ -254,12 +254,12 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "4b5c093cca72b56a",
+  "active": "095235966ee6a140",
   "lastOpenFiles": [
+    "未命名 3.md",
     "未命名 2.md",
     "未命名 1.md",
     "未命名.md",
-    "未命名 3.md",
     "index.md",
     "计算机/如何让模型只在给定的gpu上面运行.md",
     "前馈神经网络.md",
