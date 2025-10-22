@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/未命名.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/未命名.md",
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,6 +214,9 @@
   },
   "active": "a4f690646474a77d",
   "lastOpenFiles": [
+    "前馈神经网络.md",
+    "index.md",
+    "计算机/未命名.md",
     "计算机/扩展查找.md",
     "计算机/终止tmux.md",
     "未命名.md",
@@ -223,10 +226,8 @@
     "脚本开发/Prompt.md",
     "脚本开发/重启 TypeScript 语言服务器.md",
     "计算机/VScode快捷键.md",
-    "计算机/未命名.md",
     "脚本开发",
     "计算机/tmux.md",
-    "前馈神经网络.md",
     "课程/人工智能与机器学习/Liner",
     "AI/训练/什么时候该用torch.autocast.md",
     "科研/论文/论文分享 - MapAnything：通用的前馈式度量三维重建.md",
@@ -250,7 +251,6 @@
     "课程/人工智能与机器学习/CNN",
     "Prompt.md",
     "课程/数字集成电路/第三章/第三章：CMOS 工艺技术.md",
-    "课程/模拟集成电路/第一章/未命名 2.md",
     "课程/模拟集成电路/第二章",
     "课程/模拟集成电路/第一章",
     "课程/模拟集成电路",
