@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "visi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "f7a3091860ab9808",
+  "active": "a90fe6a8372e2868",
   "lastOpenFiles": [
     "未命名 1.md",
     "答辩稿.md",
