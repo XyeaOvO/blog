@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "490b5c19836bfd20",
+        "id": "11180226acea1966",
         "type": "tabs",
         "children": [
           {
-            "id": "f769f0397a8219ca",
+            "id": "f7a3091860ab9808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脚本开发/Prompt.md",
+                "file": "答辩稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
-            }
-          },
-          {
-            "id": "6cde6fdcf98df049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/Pickle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pickle"
-            }
-          },
-          {
-            "id": "a4f690646474a77d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "4b5c093cca72b56a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "095235966ee6a140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "cd5826abeb9300ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 3"
+              "title": "答辩稿"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.md",
+                "file": "答辩稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 2 的大纲"
+              "title": "答辩稿 的大纲"
             }
           },
           {
@@ -233,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -254,22 +183,22 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "095235966ee6a140",
+  "active": "f7a3091860ab9808",
   "lastOpenFiles": [
-    "未命名 3.md",
-    "未命名 2.md",
     "未命名 1.md",
-    "未命名.md",
+    "答辩稿.md",
+    "未命名 3.md",
+    "脚本开发/Prompt.md",
+    "科研/Pickle.md",
+    "课程/人工智能与机器学习/前馈神经网络.md",
+    "课程/光面 实验.md",
     "index.md",
     "计算机/如何让模型只在给定的gpu上面运行.md",
-    "前馈神经网络.md",
     "计算机/未命名.md",
     "计算机/扩展查找.md",
     "计算机/终止tmux.md",
-    "科研/Pickle.md",
     "脚本开发/Zsh + Oh My Zsh.md",
     "脚本开发/数据集.md",
-    "脚本开发/Prompt.md",
     "脚本开发/重启 TypeScript 语言服务器.md",
     "计算机/VScode快捷键.md",
     "脚本开发",
