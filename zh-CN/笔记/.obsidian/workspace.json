@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11180226acea1966",
+        "id": "5f2cde2b43c6e3a1",
         "type": "tabs",
         "children": [
           {
-            "id": "f7a3091860ab9808",
+            "id": "1bc0c8afb9113fab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cuda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,8 +179,12 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "f7a3091860ab9808",
+  "active": "1bc0c8afb9113fab",
   "lastOpenFiles": [
+    "计算机/未命名.md",
+    "计算机/下载模型.md",
+    "计算机/如何让模型只在给定的gpu上面运行.md",
+    "Prompt.md",
     "答辩稿.md",
     "未命名 1.md",
     "未命名 3.md",
@@ -193,8 +193,6 @@
     "课程/人工智能与机器学习/前馈神经网络.md",
     "课程/光面 实验.md",
     "index.md",
-    "计算机/如何让模型只在给定的gpu上面运行.md",
-    "计算机/未命名.md",
     "计算机/扩展查找.md",
     "计算机/终止tmux.md",
     "脚本开发/Zsh + Oh My Zsh.md",
@@ -219,8 +217,6 @@
     "课程/人工智能与机器学习/CNN/主题 L4：卷积神经网络 (Convolutional Neural Networks).md",
     "课程/脑认知",
     "课程/人工智能与机器学习/AI和ML的关系.md",
-    "课程/人工智能与机器学习/不属于机器学习的人工智能实例.md",
-    "课程/人工智能与机器学习/MOC-人工智能与机器学习.md",
     "课程/人工智能与机器学习/CNN",
     "课程/模拟集成电路/第二章",
     "课程/模拟集成电路/第一章",
