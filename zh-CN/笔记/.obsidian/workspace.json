@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "6c576249da6b8bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/模拟集成电路/第三章/具体解释.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "具体解释"
+            }
+          },
+          {
+            "id": "813a1ee4d33b635d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/模拟集成电路/第三章/如何记忆.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何记忆"
+            }
           }
         ]
       }
@@ -185,7 +213,10 @@
   },
   "active": "651750ef64262ee4",
   "lastOpenFiles": [
+    "课程/模拟集成电路/第三章/如何记忆.md",
+    "课程/模拟集成电路/第三章/具体解释.md",
     "课程/模拟集成电路/第三章/未命名.md",
+    "课程/模拟集成电路/第三章/[如何记忆.md",
     "课程/模拟集成电路/第三章",
     "课程/模拟集成电路/第一章/第一章：文明的基石 —— 集成电路的前世今生.md",
     "课程/模拟集成电路/第二章/未命名.md",
@@ -209,11 +240,8 @@
     "脚本开发/Zsh + Oh My Zsh.md",
     "脚本开发/数据集.md",
     "脚本开发/重启 TypeScript 语言服务器.md",
-    "计算机/VScode快捷键.md",
     "脚本开发",
-    "计算机/tmux.md",
     "课程/人工智能与机器学习/Liner",
-    "AI/训练/什么时候该用torch.autocast.md",
     "课程/脑认知/Pic/Pasted image 20251018115851.png",
     "课程/脑认知/Pic/Pasted image 20251018115652.png",
     "课程/脑认知/Pic/Pasted image 20251018114426.png",
