@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/数字集成电路/第五章/未命名.md",
+                "file": "课程/数字集成电路/第四章/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字集成电路/第五章/未命名.md",
+                "file": "课程/数字集成电路/第四章/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,6 +214,7 @@
   },
   "active": "6c576249da6b8bfe",
   "lastOpenFiles": [
+    "课程/数字集成电路/第五章/未命名.md",
     "课程/数字集成电路/第五章/Pic/Pasted image 20251026010442.png",
     "课程/数字集成电路/第五章/Pic/Pasted image 20251026002252.png",
     "课程/数字集成电路/第五章/Pic/Pasted image 20251026002247.png",
@@ -221,7 +222,6 @@
     "课程/数字集成电路/第五章/Pic/Pasted image 20251026001900.png",
     "课程/数字集成电路/第五章/Pic/Pasted image 20251026001855.png",
     "课程/模拟集成电路/第三章/如何记忆.md",
-    "课程/数字集成电路/第五章/未命名.md",
     "课程/数字集成电路/第五章/Pic/Pasted image 20251026001443.png",
     "课程/数字集成电路/第五章/Pic/Pasted image 20251025235200.png",
     "课程/数字集成电路/第五章/Pic",
@@ -255,7 +255,6 @@
     "计算机/扩展查找.md",
     "脚本开发",
     "课程/人工智能与机器学习/Liner",
-    "课程/脑认知/Pic/Pasted image 20251018115851.png",
     "课程/脑认知/Pic",
     "课程/脑认知",
     "课程/人工智能与机器学习/CNN",
