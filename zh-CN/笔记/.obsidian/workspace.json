@@ -11,10 +11,14 @@
             "id": "d30ce61242a66568",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "课程/模拟集成电路/第三章/未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "课程/模拟集成电路/第三章/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -180,6 +185,8 @@
   },
   "active": "d30ce61242a66568",
   "lastOpenFiles": [
+    "课程/模拟集成电路/第三章/如何记忆.md",
+    "课程/模拟集成电路/第三章/具体解释.md",
     "课程/人工智能与机器学习/FNN/前馈神经网络.md",
     "课程/人工智能与机器学习/不属于机器学习的人工智能实例.md",
     "课程/数字集成电路/第四章/延时.md",
@@ -191,7 +198,6 @@
     "Obsidian 最佳实践.md",
     "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
     "课程/数字集成电路/第二章/第二章 MOS 晶体管原理.md",
-    "课程/模拟集成电路/第三章/如何记忆.md",
     "课程/模拟集成电路/第一章/第一章：文明的基石 —— 集成电路的前世今生.md",
     "课程/模拟集成电路/第三章/未命名.md",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026212437.png",
@@ -204,7 +210,6 @@
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026122805.png",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026111240.png",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026111025.png",
-    "课程/模拟集成电路/第三章/具体解释.md",
     "课程/数字集成电路/第五章/Pic/Pasted image 20251026010442.png",
     "课程/数字集成电路/第五章/Pic",
     "课程/数字集成电路/第五章",
