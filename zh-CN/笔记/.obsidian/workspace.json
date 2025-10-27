@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1c8889ce35c767d",
+        "id": "edd6755b8ba354f2",
         "type": "tabs",
         "children": [
           {
-            "id": "553956869e0a9bbc",
+            "id": "d30ce61242a66568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "第二次作业Verilog部分"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第二次作业Verilog部分 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -183,10 +178,19 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "553956869e0a9bbc",
+  "active": "d30ce61242a66568",
   "lastOpenFiles": [
+    "课程/人工智能与机器学习/FNN/前馈神经网络.md",
+    "课程/人工智能与机器学习/不属于机器学习的人工智能实例.md",
+    "课程/数字集成电路/第四章/延时.md",
+    "课程/数字集成电路/第五章/第五章 功耗.md",
+    "课程/综合挑战实践课I/实验五四探针测半导体电阻率 光面.md",
+    "课程/综合挑战实践课I",
+    "课程/Inbox/形势与政策.md",
+    "数学/十六届A.md",
+    "Obsidian 最佳实践.md",
+    "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
     "课程/数字集成电路/第二章/第二章 MOS 晶体管原理.md",
-    "课程/数字集成电路/第四章/未命名.md",
     "课程/模拟集成电路/第三章/如何记忆.md",
     "课程/模拟集成电路/第一章/第一章：文明的基石 —— 集成电路的前世今生.md",
     "课程/模拟集成电路/第三章/未命名.md",
@@ -194,7 +198,6 @@
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026210659.png",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026202914.png",
     "课程/模拟集成电路/第二章/未命名.md",
-    "课程/数字集成电路/第五章/未命名.md",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026163727.png",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026160638.png",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026160622.png",
@@ -218,18 +221,10 @@
     "Prompt.md",
     "答辩稿.md",
     "未命名 1.md",
-    "未命名 3.md",
-    "脚本开发/Prompt.md",
-    "科研/Pickle.md",
-    "课程/人工智能与机器学习/前馈神经网络.md",
-    "课程/光面 实验.md",
-    "index.md",
-    "计算机/扩展查找.md",
     "脚本开发",
-    "课程/人工智能与机器学习/Liner",
+    "课程/人工智能与机器学习/FNN",
     "课程/脑认知/Pic",
     "课程/脑认知",
-    "课程/人工智能与机器学习/CNN",
-    "课程/模拟集成电路/第二章"
+    "课程/人工智能与机器学习/CNN"
   ]
 }
