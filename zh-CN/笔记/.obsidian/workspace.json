@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/模拟集成电路/第四章/未命名.md",
+                "file": "课程/模拟集成电路/第三章/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/模拟集成电路/第三章/未命名.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Prompt"
             }
           },
           {
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/模拟集成电路/第四章/未命名.md",
+                "file": "课程/模拟集成电路/第三章/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,18 +213,18 @@
   },
   "active": "838d2b559ba6134e",
   "lastOpenFiles": [
-    "课程/模拟集成电路/第三章/未命名.md",
+    "课程/模拟集成电路/第三章/如何记忆.md",
+    "课程/模拟集成电路/第三章/具体解释.md",
     "课程/模拟集成电路/第四章/未命名.md",
+    "Prompt.md",
+    "课程/模拟集成电路/第三章/未命名.md",
     "课程/模拟集成电路/第四章/Pic/Pasted image 20251031201301.png",
     "课程/模拟集成电路/第四章/Pic/Pasted image 20251031201254.png",
-    "Prompt.md",
-    "课程/模拟集成电路/第三章/如何记忆.md",
     "课程/模拟集成电路/第四章/Pic/Pasted image 20251031194612.png",
     "课程/模拟集成电路/第四章/Pic/Pasted image 20251031194429.png",
     "课程/模拟集成电路/第四章/Pic/Pasted image 20251031192521.png",
     "课程/模拟集成电路/第四章/Pic/Pasted image 20251031142159.png",
     "课程/模拟集成电路/第四章/Pic",
-    "课程/模拟集成电路/第三章/具体解释.md",
     "课程/模拟集成电路/第四章",
     "科研/wandb.md",
     "课程/模拟集成电路/第二章/未命名.md",
