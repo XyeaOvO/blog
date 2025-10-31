@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/模拟集成电路/第四章/未命名.md",
+                "file": "课程/模拟集成电路/第三章/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +49,7 @@
               "title": "Prompt"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +211,17 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "8fb96486bf3e55e5",
+  "active": "838d2b559ba6134e",
   "lastOpenFiles": [
     "课程/模拟集成电路/第三章/未命名.md",
     "课程/模拟集成电路/第四章/未命名.md",
+    "课程/模拟集成电路/第四章/Pic/Pasted image 20251031201301.png",
+    "课程/模拟集成电路/第四章/Pic/Pasted image 20251031201254.png",
     "Prompt.md",
     "课程/模拟集成电路/第三章/如何记忆.md",
+    "课程/模拟集成电路/第四章/Pic/Pasted image 20251031194612.png",
+    "课程/模拟集成电路/第四章/Pic/Pasted image 20251031194429.png",
+    "课程/模拟集成电路/第四章/Pic/Pasted image 20251031192521.png",
     "课程/模拟集成电路/第四章/Pic/Pasted image 20251031142159.png",
     "课程/模拟集成电路/第四章/Pic",
     "课程/模拟集成电路/第三章/具体解释.md",
@@ -247,14 +251,8 @@
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026210659.png",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026202914.png",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026163727.png",
-    "课程/模拟集成电路/第三章/Pic/Pasted image 20251026160638.png",
-    "课程/模拟集成电路/第三章/Pic/Pasted image 20251026160622.png",
-    "课程/模拟集成电路/第三章/Pic/Pasted image 20251026122805.png",
-    "课程/模拟集成电路/第三章/Pic/Pasted image 20251026111240.png",
-    "课程/模拟集成电路/第三章/Pic/Pasted image 20251026111025.png",
     "课程/数字集成电路/第五章/Pic",
     "课程/数字集成电路/第五章",
-    "课程/数字集成电路/第四章/延时分析.md",
     "课程/模拟集成电路/第三章/Pic",
     "课程/模拟集成电路/第三章",
     "脚本开发",
