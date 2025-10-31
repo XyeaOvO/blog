@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/模拟集成电路/第三章/未命名.md",
+                "file": "科研/wandb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "wandb"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/模拟集成电路/第三章/未命名.md",
+                "file": "科研/wandb.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "wandb 的大纲"
             }
           },
           {
@@ -200,15 +200,15 @@
   },
   "active": "1fc5d118e5671794",
   "lastOpenFiles": [
-    "课程/模拟集成电路/第二章/未命名.md",
     "课程/模拟集成电路/第三章/未命名.md",
+    "科研/wandb.md",
+    "课程/模拟集成电路/第二章/未命名.md",
     "课程/模拟集成电路/第三章/具体解释.md",
     "课程/模拟集成电路/第三章/如何记忆.md",
     "课程/模拟集成电路/第一章/未命名 2.md",
     "课程/模拟集成电路/第一章/未命名.md",
     "科研/架构.md",
     "科研/未命名 1.md",
-    "科研/未命名.md",
     "科研/未命名 2.md",
     "科研/项目复述.md",
     "科研/旋转矩阵.md",
