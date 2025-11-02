@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于全连接神经网络的CIFAR-10图像分类实验报告"
+              "title": "Prompt"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
+                "file": "Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基于全连接神经网络的CIFAR-10图像分类实验报告 的大纲"
+              "title": "Prompt 的大纲"
             }
           },
           {
@@ -185,12 +185,12 @@
   },
   "active": "d847b12224bbc05a",
   "lastOpenFiles": [
+    "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102134606.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102134559.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102134413.png",
     "Prompt.md",
     "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
-    "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102121536.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102121530.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102115630.png",
@@ -198,7 +198,6 @@
     "课程/人工智能与机器学习/Pic/Pasted image 20251102115313.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102115245.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102114319.png",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251102114047.png",
     "课程/人工智能与机器学习/Pic",
     "课程/人工智能与机器学习/不属于机器学习的人工智能实例.md",
     "课程/人工智能与机器学习/未命名 1.md",
