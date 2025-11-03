@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/项目复述.md",
+                "file": "科研/架构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目复述"
+              "title": "架构"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/项目复述.md",
+                "file": "科研/架构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目复述 的大纲"
+              "title": "架构 的大纲"
             }
           },
           {
@@ -186,8 +186,9 @@
   "active": "d847b12224bbc05a",
   "lastOpenFiles": [
     "科研/NBV任务研究现状调研.md",
-    "科研/Adam 学习率选取.md",
+    "科研/架构.md",
     "科研/项目复述.md",
+    "科研/Adam 学习率选取.md",
     "Prompt.md",
     "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102134606.png",
@@ -214,7 +215,6 @@
     "课程/模拟集成电路/第二章/未命名.md",
     "课程/模拟集成电路/第一章/未命名 2.md",
     "课程/模拟集成电路/第一章/未命名.md",
-    "科研/架构.md",
     "科研/未命名 1.md",
     "科研/未命名 2.md",
     "科研/旋转矩阵.md",
