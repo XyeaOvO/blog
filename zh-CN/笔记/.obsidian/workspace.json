@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cee24ca0e838d85b",
+        "id": "804152097bbff663",
         "type": "tabs",
         "children": [
           {
-            "id": "d847b12224bbc05a",
+            "id": "1a0e5b499f4c4fe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/NBV任务研究现状调研.md",
+                "file": "计算机/tmux配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NBV任务研究现状调研"
+              "title": "tmux配置"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/NBV任务研究现状调研.md",
+                "file": "计算机/tmux配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "NBV任务研究现状调研 的大纲"
+              "title": "tmux配置 的大纲"
             }
           },
           {
@@ -184,10 +183,13 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "a90fe6a8372e2868",
+  "active": "1a0e5b499f4c4fe0",
   "lastOpenFiles": [
-    "科研/架构.md",
+    "计算机/Ubuntu安装字体.md",
+    "计算机/tmux配置.md",
+    "计算机/tmux.md",
     "科研/NBV任务研究现状调研.md",
+    "科研/架构.md",
     "科研/项目复述.md",
     "科研/Adam 学习率选取.md",
     "Prompt.md",
@@ -222,10 +224,7 @@
     "课程/人工智能与机器学习/FNN/前馈神经网络.md",
     "课程/数字集成电路/第四章/延时.md",
     "课程/数字集成电路/第五章/第五章 功耗.md",
-    "课程/综合挑战实践课I/实验五四探针测半导体电阻率 光面.md",
     "课程/综合挑战实践课I",
-    "课程/Inbox/形势与政策.md",
-    "数学/十六届A.md",
     "课程/数字集成电路/第五章/Pic",
     "课程/数字集成电路/第五章",
     "课程/模拟集成电路/第三章/Pic",
