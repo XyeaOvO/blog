@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/架构.md",
+                "file": "科研/NBV任务研究现状调研.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "架构"
+              "title": "NBV任务研究现状调研"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/架构.md",
+                "file": "科研/NBV任务研究现状调研.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "架构 的大纲"
+              "title": "NBV任务研究现状调研 的大纲"
             }
           },
           {
@@ -183,10 +184,10 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "d847b12224bbc05a",
+  "active": "a90fe6a8372e2868",
   "lastOpenFiles": [
-    "科研/NBV任务研究现状调研.md",
     "科研/架构.md",
+    "科研/NBV任务研究现状调研.md",
     "科研/项目复述.md",
     "科研/Adam 学习率选取.md",
     "Prompt.md",
