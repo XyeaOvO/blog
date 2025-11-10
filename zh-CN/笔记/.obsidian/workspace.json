@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/tmux.md",
+                "file": "计算机/tmux配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "tmux配置"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/tmux.md",
+                "file": "计算机/tmux配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "tmux 的大纲"
+              "title": "tmux配置 的大纲"
             }
           },
           {
@@ -185,9 +185,9 @@
   },
   "active": "1a0e5b499f4c4fe0",
   "lastOpenFiles": [
+    "计算机/tmux.md",
     "计算机/tmux配置.md",
     "计算机/Ubuntu安装字体.md",
-    "计算机/tmux.md",
     "科研/NBV任务研究现状调研.md",
     "科研/架构.md",
     "科研/项目复述.md",
