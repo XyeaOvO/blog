@@ -100,7 +100,88 @@ touch ~/.tmux.conf
 然后，将下面的所有内容复制并粘贴到 `~/.tmux.conf` 文件中。
 
 ```tmux
+# =============================================================================
+# tmux.conf
+#
+# 特点:
+# - 前缀键: Ctrl+a
+# - 导航: Vim 风格 (h,j,k,l)
+# - 插件管理: TPM
+# - 依赖: Nerd Font 字体 (为了主题图标), fzf (为了模糊搜索)
+# =============================================================================
 
+
+# =============================================================================
+# 全局设置 (Global Options)
+# =============================================================================
+
+# 设置前缀键为 Ctrl+a，这是一个比默认 Ctrl+b 更方便的选择
+unbind C-b
+set-option -g prefix C-a
+bind-key C-a send-prefix
+
+# 缩短 Esc 键的延迟时间，提升在 Vim/Neovim 中的响应速度
+set -sg escape-time 0
+
+# 设置一个现代化的、能正确报告自身能力的终端类型
+# Tc 标志用于启用 True Color (24-bit color)，让色彩更丰富
+set -g default-terminal "tmux-256color"
+set-option -sa terminal-overrides ",*:Tc"
+
+# 开启鼠标支持，实现点击切换窗口/面板、滚动查看等功能
+set -g mouse on
+
+# 增加历史记录的行数，方便回溯查看更多输出
+set -g history-limit 50000
+
+# 窗口和面板的起始序号从 1 开始，更符合直觉
+set -g base-index 1
+setw -g pane-base-index 1
+# 关闭窗口后自动重新编号，保持序号的连续性
+set -g renumber-windows on
+
+# 允许窗口标题根据当前运行的程序自动重命名
+setw -g automatic-rename on
+set -g set-titles on
+# 自定义标题格式：窗口索引:窗口名 - 当前进程名
+set -g set-titles-string '#I:#W - #T'
+
+# 开启焦点事件，对于 Neovim 等应用的自动重载功能至关重要
+set -g focus-events on
+
+# 延长状态栏消息的显示时间 (单位: 毫秒)
+set -g display-time 1500
+
+# 延长需要重复按键的命令的等待时间 (如调整面板大小)
+set -g repeat-time 1000
+
+# 将状态栏放到顶部，更现代的风格
+set -g status-position top
+
+
+# =============================================================================
+# 快捷键绑定 (Key Bindings)
+# =============================================================================
+
+# 使用 r 键重载配置文件，并显示提示信息，立即生效
+bind r source-file ~/.tmux.conf \; display "配置文件已重载！"
+
+# 更直观的窗格分割方式，并保持在当前目录下
+bind | split-window -h -c "#{pane_current_path}" # 垂直分割 (vertical split)
+bind - split-window -v -c "#{pane_current_path}" # 水平分割 (horizontal split)
+
+# 关闭当前窗格或窗口
+bind q killp # 关闭窗格 (kill-pane)
+bind w killw # 关闭窗口 (kill-window)
+
+# 使用 Vim 的 h,j,k,l 在窗格间切换
+bind h select-pane -L
+bind j select-pane -D
+bind k select-pane -U
+bind l select-pane -R
+
+# 使用 Ctrl+l 清屏并清除历史记录，比单纯清屏更彻底
+bind C-l send-keys 'C-l' \; clea
 ```
 
 ---
