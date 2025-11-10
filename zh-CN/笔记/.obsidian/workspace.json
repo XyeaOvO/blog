@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/tmux配置.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux配置"
+              "title": "Prompt"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/tmux配置.md",
+                "file": "Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "tmux配置 的大纲"
+              "title": "Prompt 的大纲"
             }
           },
           {
@@ -185,8 +185,9 @@
   },
   "active": "1a0e5b499f4c4fe0",
   "lastOpenFiles": [
-    "计算机/tmux.md",
+    "Obsidian 最佳实践.md",
     "计算机/tmux配置.md",
+    "计算机/tmux.md",
     "计算机/Ubuntu安装字体.md",
     "科研/NBV任务研究现状调研.md",
     "科研/架构.md",
@@ -223,7 +224,6 @@
     "科研/旋转矩阵.md",
     "课程/人工智能与机器学习/FNN/前馈神经网络.md",
     "课程/数字集成电路/第四章/延时.md",
-    "课程/数字集成电路/第五章/第五章 功耗.md",
     "课程/综合挑战实践课I",
     "课程/数字集成电路/第五章/Pic",
     "课程/数字集成电路/第五章",
