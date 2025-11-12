@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/人工智能与机器学习/未命名.md",
+                "file": "脚本开发/Zsh + Oh My Zsh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Zsh + Oh My Zsh"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tmux",
+                "query": "Ohmy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +201,8 @@
   },
   "active": "7a87ac4a5c473f5b",
   "lastOpenFiles": [
+    "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
     "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
-    "课程/人工智能与机器学习/未命名.md",
     "课程/综合挑战实践课I/未命名.md",
     "Prompt.md",
     "Obsidian 最佳实践.md",
