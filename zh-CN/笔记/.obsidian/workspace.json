@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt.md",
+                "file": "课程/综合挑战实践课I/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "未命名"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt.md",
+                "file": "课程/综合挑战实践课I/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Prompt 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -185,6 +185,8 @@
   },
   "active": "1a0e5b499f4c4fe0",
   "lastOpenFiles": [
+    "Prompt.md",
+    "课程/综合挑战实践课I/未命名.md",
     "Obsidian 最佳实践.md",
     "计算机/tmux配置.md",
     "计算机/tmux.md",
@@ -193,7 +195,6 @@
     "科研/架构.md",
     "科研/项目复述.md",
     "科研/Adam 学习率选取.md",
-    "Prompt.md",
     "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102134606.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102134559.png",
@@ -223,7 +224,6 @@
     "科研/未命名 2.md",
     "科研/旋转矩阵.md",
     "课程/人工智能与机器学习/FNN/前馈神经网络.md",
-    "课程/数字集成电路/第四章/延时.md",
     "课程/综合挑战实践课I",
     "课程/数字集成电路/第五章/Pic",
     "课程/数字集成电路/第五章",
