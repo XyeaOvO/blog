@@ -21,7 +21,7 @@
 *   设计并实现一个模块化的、基于残差连接的卷积神经网络，验证其相较于FCN的性能优势。
 *   应用**Dropout**和多种**归一化方法**（Normalization），深入理解它们在CNN中对模型训练稳定性和泛化能力的影响。
 *   通过交叉验证，为复杂的CNN模型系统性地寻找最优的超参数组合。
-*   **（附加题）** 探究更深层次的网络架构（通过增加残差块）、预激活（Pre-activation）变体，以及**MixUp**和**CutMix**等高级正则化方法对模型性能的极限提升作用。
+*   **（附加题）** 探究更深层次的网络架构、预激活（Pre-activation），以及**MixUp**和**CutMix**等高级正则化方法对模型性能的极限提升作用。
 
 #### **1.3 技术栈：PyTorch Lightning + Hydra**
 为了提升开发效率、学习现代框架，本次实验重构了代码架构：
@@ -55,7 +55,7 @@
 *   **Dropout率**: 分别为卷积层（`conv_dropout`）和分类器（`classifier_dropout`）设置。
 
 #### **2.3 实验环境与超参数搜索**
-*   **硬件**: 3 x NVIDIA RTX 3090
+*   **硬件**: 4 x NVIDIA RTX 3090
 *   **软件**: PyTorch, PyTorch Lightning, Hydra, Weights & Biases (W&B)
 
 ---
@@ -92,29 +92,23 @@
 **结论**: 本实验成功地验证了我们的假设：简单地堆叠网络层数并不能保证性能的持续提升。对于CIFAR-10这个特定任务和我们的网络架构，存在一个最佳的深度范围（在本实验中约为56层）。超越这个范围后，训练的优化难度将成为主要瓶颈，导致性能饱和乃至退化。这一发现强调了网络架构设计中，深度、宽度和其他结构（如注意力机制、更高效的归一化层等）之间需要进行权衡。
 
 **3.2.2 归一化方法对比 (Batch Norm vs. Group Norm)**
-
-`[在此处插入使用BatchNorm和GroupNorm的两个模型在相同配置下的训练曲线对比图]`
+**实验目的**: 本实验旨在对比批次归一化（Batch Normalization, BN）与组归一化（Group Normalization, GN）的性能。我们采用性能最佳的56层残差网络作为基准架构，并在[256, 128, 64, 32]四种不同批次大小下进行了对比测试，以评估它们的有效性与稳定性。
+![[Pic/Pasted image 20251114114156.png]]
 
 **结果分析**:
-[在此处分析你的实验结果。例如：]
-在我们的实验设置中（batch size为[填写你的batch size]），Batch Normalization展现出微弱的性能优势和更快的收敛速度。这符合其设计初衷，即利用整个批次的数据进行统计，从而提供更稳定和准确的归一化。然而，Group Normalization也取得了极具竞争力的结果，并且理论上在小批量训练场景下会更加稳定。对于此任务，两者都是有效的选择，但BatchNorm是默认的最优选。
+出乎我们最初的预期，实验结果表明，在我们测试的所有批次大小范围内（从32到256），Batch Normalization 的性能在收敛速度和最终性能上都始终一致地优于 Group Normalization。这可能是由于：
+1. Batch Normalization 的核心机制是在一个批次内计算均值和方差。由于每个批次都是从训练集中随机抽样的，这为模型的每一层都引入了轻微的噪声。这种噪声可以被看作是一种高效的隐式正则化，它降低了模型对单个训练样本的依赖，从而有效防止过拟合，提升了模型的泛化能力。Group Normalization 在样本内部进行归一化，其计算是确定性的，因此不具备这种正则化效果。
+    
+2. 本次对比实验是在一个为BN调优好的学习率下进行的。BN的归一化机制使其对较高的学习率有更好的鲁棒性，而GN可能需要一个更小、更精细调整的学习率才能发挥其全部潜力。因此，当前结果应被解读为“在固定超参数下，BN的普适性和性能更优”。
+    
+3. 实验结果表明，对于32x32的图像和我们的网络架构，32的批次大小尚未达到BN性能急剧恶化的“临界点”。可以推断，如果继续减小批次大小至16或8，我们可能会观察到理论预期的性能反转。
+**结论**: 对于本次CIFAR-10分类任务，Batch Normalization 是最优选择。它在广泛的批次大小范围内实现了更快的收敛速度和更高的分类精度，证明了其在该特定场景下的强大效果和鲁棒性。
 
 #### **3.3 正则化策略分析 (附加题)**
-**3.3.1 Dropout位置的影响**
-
-`[如果做了相关实验，在此处插入对比图或描述结果]`
-
+**3.3.1 MixUp与CutMix的效果**
+![[Pic/Pasted image 20251114115147.png]]
 **结果分析**:
-[在此处分析你的实验结果。例如：]
-我们发现，在分类器的全连接层前使用较高的Dropout率（`classifier_dropout` ≈ 0.5）是抑制过拟合最有效的方式。在卷积层之间使用较低的Dropout率（`conv_dropout` ≈ 0.1-0.2）也能带来一定的性能提升，但效果不如在分类器处应用显著。这表明模型过拟合的主要风险发生在从空间特征到类别概率的高度参数化的映射阶段。
-
-**3.3.2 MixUp与CutMix的效果**
-
-`[在此处插入有/无MixUp/CutMix模型的验证准确率和训练损失对比图]`
-
-**结果分析**:
-[在此处分析你的实验结果。例如：]
-引入MixUp和CutMix的组合后，模型的性能得到了进一步的显著提升（约提升了[填写百分比]）。从图中可以看出，使用这些增强策略后，训练损失下降得更为平缓，同时验证集准确率能够达到一个更高的高原期，且训练集与验证集准确率之间的差距（overfitting gap）明显减小。这证明了MixUp/CutMix作为强大的隐式正则化方法，能有效迫使模型学习更鲁棒、更具泛化能力的特征。
+引入MixUp和CutMix的组合后，模型的性能得到了进一步的显著提升（约提升了1%）。这证明了MixUp/CutMix作为强大的隐式正则化方法，能有效迫使模型学习更鲁棒、更具泛化能力的特征。
 
 ---
 
@@ -123,19 +117,20 @@
 
 **最佳模型配置 (通过Hydra加载):**
 
-| 超参数类别 | 参数 | 最佳值 |
-| :--- | :--- | :--- |
-| **架构** | `model.stage_channels` | `[填写值]` |
-| | `model.stage_blocks` | `[填写值]` |
-| | `model.normalization` | `[填写值]` |
-| | `model.preactivation` | `[填写值]` |
-| **优化** | `optimizer.lr` | `[填写值]` |
-| | `optimizer.weight_decay`| `[填写值]` |
-| **正则化** | `model.classifier_dropout`| `[填写值]` |
-| | `data.mixup_alpha` | `[填写值]` |
-| | `data.cutmix_alpha` | `[填写值]` |
-| **最终性能** | **验证集最高准确率** | **[填写值]%** |
-| | **测试集准确率** | **[填写值]%** |
+| 超参数类别    | 参数                         | 最佳值               |
+| :------- | :------------------------- | :---------------- |
+| **架构**   | `model.conv_channels`      | `[160, 320, 640]` |
+|          | `model.conv_blocks`        | `[3, 3, 3]`       |
+|          | `model.normalization`      | `batch`           |
+|          | `model.preactivation`      | `true`            |
+| **优化**   | `optimizer.lr`             | `[填写值]`           |
+|          | `optimizer.weight_decay`   | `[填写值]`           |
+| **正则化**  | `model.classifier_dropout` | `0.2`             |
+|          | `data.mixup_alpha`         | `0.4`             |
+|          | `data.cutmix_alpha`        | `0.2`             |
+|          | `data.mixup_cutmix_prob`   | `0.5`             |
+| **最终性能** | **验证集最高准确率**               | **[填写值]%**        |
+|          | **测试集准确率**                 | **[填写值]%**        |
 
 **训练曲线:**
 
@@ -146,7 +141,7 @@
 `[在此处插入最佳模型在测试集上的混淆矩阵图]`
 
 **结果分析**:
-与A1的混淆矩阵相比，最佳CNN模型在所有类别上都表现出更高的准确性。尤其值得注意的是，之前混淆严重的类别对，如 **cat/dog** 和 **automobile/truck**，其混淆程度得到了**极大缓解**。例如，被错分为dog的cat数量从[填写A1的数值]下降到了[填写A2的数值]。这强有力地证明了CNN成功学习到了区分这些类别的关键局部特征（如动物的耳朵轮廓、车辆的格栅形状等），而这是FCN无法做到的。
+与A1的混淆矩阵相比，最佳CNN模型在所有类别上都表现出更高的准确性。尤其值得注意的是，之前混淆严重的类别对，如 cat/dog 和 automobile/truck，其混淆程度得到了极大缓解。例如，被错分为dog的cat数量从194下降到了[填写A2的数值]。这强有力地证明了CNN成功学习到了区分这些类别的关键局部特征（如动物的耳朵轮廓、车辆的格栅形状等），而这是FCN无法做到的。
 
 **定性结果:**
 
@@ -158,30 +153,12 @@
 
 #### **5.1 结论总结**
 本次实验成功地设计、训练并评估了一个高性能的卷积神经网络分类器。通过从FCN到CNN的升级，并引入现代化的工程实践（PyTorch Lightning + Hydra）与先进的正则化技术，我们取得了以下关键结论：
-1.  **CNN的结构优势**: 凭借卷积和池化操作，CNN能够有效捕获图像的空间层次特征，其性能远超忽略空间信息的FCN，测试集准确率从 **71.49%** 提升至 **[填写你的最终准确率]%**。
-2.  **残差连接的重要性**: 残差结构是构建和训练深度CNN模型的关键技术，有效解决了梯度消失问题。
-3.  **高级正则化的威力**: MixUp和CutMix等数据增强方法是强大的正则化工具，能显著提升模型的泛化能力，是冲击更高性能的必备策略。
-4.  **工程实践的价值**: PyTorch Lightning和Hydra的结合极大地提升了实验的效率、可读性和可复现性。
+1.  凭借卷积和池化操作，CNN能够有效捕获图像的空间层次特征，其性能远超忽略空间信息的FCN，测试集准确率从 **71.49%** 提升至 **[填写你的最终准确率]%**。
+2.  残差结构是构建和训练深度CNN模型的关键技术，有效解决了梯度消失问题。
+3.  MixUp和CutMix等数据增强方法是强大的正则化工具，能显著提升模型的泛化能力。
+4.  PyTorch Lightning和Hydra的结合极大地提升了实验的效率、可读性和可复现性。
 
 #### **5.2 思考与展望**
 尽管我们的CNN模型取得了优异的成绩，但计算机视觉领域仍在飞速发展。未来的探索方向可以包括：
 1.  **更先进的架构**: 探索如Vision Transformer (ViT) 等正在兴起的、基于注意力机制的新型网络架构，并与CNN进行性能对比。
 2.  **自监督学习**: 尝试使用自监督预训练方法（如SimCLR, MAE）在无标签数据上预训练模型，再在CIFAR-10上进行微调，这可能进一步提升模型性能。
-3.  **更复杂的任务**: 将当前的模型和框架迁移到更具挑战性的任务上，如目标检测或图像分割。
-
----
-### **参考文献**
-
- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. *Advances in Neural Information Processing Systems*, 25.
-
- He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. *In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
-
- Zhang, H., Cisse, M., Dauphin, Y. N., & Lopez-Paz, D. (2018). mixup: Beyond Empirical Risk Minimization. *In International Conference on Learning Representations (ICLR)*.
-
- Yun, S., Han, D., Oh, S. J., Chun, S., Choe, J., & Yoo, Y. (2019). CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. *In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*.
-
- Ioffe, S., & Szegedy, C. (2015). Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. *In International Conference on Machine Learning (ICML)*.
-
- Falcon, W., & The PyTorch Lightning team. (2019). PyTorch Lightning. *GitHub*.
-
- Yadan, O. (2019). Hydra - A framework for elegantly configuring complex applications. *GitHub*.
