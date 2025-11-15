@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/模拟集成电路/第三章/未命名.md",
+                "file": "课程/Inbox/形势与政策.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "形势与政策"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ohmy",
+                "query": "政策",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/模拟集成电路/第三章/未命名.md",
+                "file": "课程/Inbox/形势与政策.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "形势与政策 的大纲"
             }
           },
           {
@@ -185,6 +186,7 @@
   },
   "active": "171d77c07b5f5ff3",
   "lastOpenFiles": [
+    "课程/模拟集成电路/第三章/未命名.md",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251114235843.png",
     "课程/模拟集成电路/第四章/未命名.md",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026111025.png",
@@ -214,11 +216,9 @@
     "科研/项目复述.md",
     "科研/Adam 学习率选取.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251102134606.png",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251102134559.png",
     "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
     "课程/人工智能与机器学习/Pic",
     "课程/人工智能与机器学习/不属于机器学习的人工智能实例.md",
-    "课程/模拟集成电路/第三章/未命名.md",
     "课程/模拟集成电路/第三章/如何记忆.md",
     "课程/模拟集成电路/第三章/具体解释.md",
     "课程/模拟集成电路/第四章/Pic",
