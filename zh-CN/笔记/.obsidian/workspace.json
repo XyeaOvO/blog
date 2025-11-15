@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57b9c30f225b7cee",
+        "id": "0c88582f17f405f7",
         "type": "tabs",
         "children": [
           {
-            "id": "171d77c07b5f5ff3",
+            "id": "af0b9f9269d15104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/Inbox/形势与政策.md",
+                "file": "课程/综合挑战实践课I/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "形势与政策"
+              "title": "未命名"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/Inbox/形势与政策.md",
+                "file": "课程/综合挑战实践课I/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "形势与政策 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -184,17 +183,23 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "171d77c07b5f5ff3",
+  "active": "9570f173118835fc",
   "lastOpenFiles": [
+    "课程/综合挑战实践课I/未命名.md",
+    "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
+    "课程/人工智能与机器学习/写诗prompt.md",
+    "Prompt.md",
+    "Inbox/答辩稿.md",
+    "index.md",
+    "Obsidian 最佳实践.md",
+    "课程/Inbox/形势与政策.md",
     "课程/模拟集成电路/第三章/未命名.md",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251114235843.png",
     "课程/模拟集成电路/第四章/未命名.md",
     "课程/模拟集成电路/第三章/Pic/Pasted image 20251026111025.png",
     "课程/模拟集成电路/第二章/未命名.md",
-    "Prompt.md",
     "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
     "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
-    "课程/人工智能与机器学习/写诗prompt.md",
     "课程/人工智能与机器学习/AI和ML的关系.md",
     "课程/人工智能与机器学习/未命名 1.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251114115147.png",
@@ -206,8 +211,6 @@
     "课程/人工智能与机器学习/Pic/Pasted image 20251113094558.png",
     "脚本开发/Zsh + Oh My Zsh.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251112234902.png",
-    "课程/综合挑战实践课I/未命名.md",
-    "Obsidian 最佳实践.md",
     "计算机/tmux配置.md",
     "计算机/tmux.md",
     "计算机/Ubuntu安装字体.md",
@@ -219,11 +222,8 @@
     "课程/数字集成电路/第二章/第二次作业Verilog部分.md",
     "课程/人工智能与机器学习/Pic",
     "课程/人工智能与机器学习/不属于机器学习的人工智能实例.md",
-    "课程/模拟集成电路/第三章/如何记忆.md",
-    "课程/模拟集成电路/第三章/具体解释.md",
     "课程/模拟集成电路/第四章/Pic",
     "课程/模拟集成电路/第四章",
-    "科研/wandb.md",
     "课程/综合挑战实践课I",
     "课程/数字集成电路/第五章/Pic",
     "课程/数字集成电路/第五章",
