@@ -35,8 +35,7 @@
               "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/综合挑战实践课I/未命名.md",
+                "file": "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "基于 PN 结的数字温度传感器保姆级教程 的大纲"
             }
           },
           {
@@ -198,10 +197,10 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "c2e64d16412a936a",
+  "active": "af0b9f9269d15104",
   "lastOpenFiles": [
-    "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
     "课程/综合挑战实践课I/未命名.md",
+    "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
     "课程/综合挑战实践课I/prompt.md",
     "科研/架构.md",
     "科研/项目复述.md",
