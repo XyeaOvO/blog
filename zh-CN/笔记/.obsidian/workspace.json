@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/综合挑战实践课I/未命名.md",
+                "file": "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "基于 PN 结的数字温度传感器保姆级教程"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/综合挑战实践课I/未命名.md",
+                "file": "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "基于 PN 结的数字温度传感器保姆级教程 的大纲"
             }
           },
           {
@@ -185,9 +185,10 @@
   },
   "active": "c2e64d16412a936a",
   "lastOpenFiles": [
+    "课程/综合挑战实践课I/实验五四探针测半导体电阻率 光面.md",
+    "课程/综合挑战实践课I/未命名.md",
     "课程/综合挑战实践课I/综合实验1简易电子琴搭建和演示.md",
     "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
-    "课程/综合挑战实践课I/未命名.md",
     "课程/综合挑战实践课I/prompt.md",
     "科研/架构.md",
     "科研/项目复述.md",
@@ -220,7 +221,6 @@
     "计算机/tmux.md",
     "计算机/Ubuntu安装字体.md",
     "科研/NBV任务研究现状调研.md",
-    "科研/Adam 学习率选取.md",
     "课程/人工智能与机器学习/Pic",
     "课程/模拟集成电路/第四章/Pic",
     "课程/模拟集成电路/第四章",
