@@ -157,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "源代码管理"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -177,10 +177,7 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian42-brat:BRAT": false,
-      "i18n:I18N": false,
-      "obsidian-git:打开Git源代码管理": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "c2e64d16412a936a",
