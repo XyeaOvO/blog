@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c8da41cee9ca9d",
+        "id": "2f48e0696a5777b3",
         "type": "tabs",
         "children": [
           {
-            "id": "e85f844a88a8a135",
+            "id": "ede7e71a08edf424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/综合挑战实践课I/prompt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "prompt"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/综合挑战实践课I/prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "prompt 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -157,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "源代码管理"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -183,8 +178,12 @@
       "i18n:I18N": false
     }
   },
-  "active": "e85f844a88a8a135",
+  "active": "ede7e71a08edf424",
   "lastOpenFiles": [
+    "计算机/Untitled.md",
+    "计算机/latex安装.md",
+    "计算机/未命名.md",
+    "课程/综合挑战实践课I/prompt.md",
     "Prompt.md",
     "课程/数字集成电路/第九章—组合电路设计.md",
     "课程/数字集成电路/Pic/Pasted image 20251120221216.png",
@@ -193,7 +192,6 @@
     "课程/综合挑战实践课I/基于 PN 结的数字温度传感器保姆级教程.md",
     "课程/综合挑战实践课I/实验五四探针测半导体电阻率 光面.md",
     "课程/综合挑战实践课I/未命名.md",
-    "课程/综合挑战实践课I/prompt.md",
     "课程/综合挑战实践课I/综合实验1简易电子琴搭建和演示.md",
     "课程/数字集成电路/第五章/第五章 功耗.md",
     "课程/数字集成电路/第六章：互连线 (Interconnects).md",
@@ -209,7 +207,6 @@
     "Obsidian 最佳实践.md",
     "计算机/obsidian.md",
     "计算机/解决Appimage相关问题(24.04)不可用.md",
-    "计算机/未命名.md",
     "科研/架构.md",
     "科研/项目复述.md",
     "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
@@ -220,7 +217,6 @@
     "课程/模拟集成电路/第三章/未命名.md",
     "课程/模拟集成电路/第四章/未命名.md",
     "课程/模拟集成电路/第二章/未命名.md",
-    "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
     "课程/人工智能与机器学习/Pic",
     "课程/模拟集成电路/第四章/Pic",
     "课程/模拟集成电路/第四章",
