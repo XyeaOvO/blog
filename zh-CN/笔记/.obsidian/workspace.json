@@ -11,10 +11,14 @@
             "id": "e85f844a88a8a135",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字集成电路/第六章：互连线 (Interconnects).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "第六章：互连线 (Interconnects)"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "课程/数字集成电路/第六章：互连线 (Interconnects).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "第六章：互连线 (Interconnects) 的大纲"
             }
           },
           {
@@ -157,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,8 +183,21 @@
       "i18n:I18N": false
     }
   },
-  "active": "e85f844a88a8a135",
+  "active": "acf4efcaaf25fd0d",
   "lastOpenFiles": [
+    "课程/数字集成电路/Pic/Pasted image 20251120133413.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120132401.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120132357.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120132321.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120132218.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120131816.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120131602.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120131543.png",
+    "课程/数字集成电路/Pic/Pasted image 20251120131458.png",
+    "课程/数字集成电路/Pic",
+    "Prompt.md",
+    "课程/数字集成电路/第六章：互连线 (Interconnects).md",
+    "Obsidian 最佳实践.md",
     "计算机/obsidian.md",
     "计算机/解决Appimage相关问题(24.04)不可用.md",
     "计算机/未命名.md",
@@ -193,29 +211,17 @@
     "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
     "课程/人工智能与机器学习/Pic/Pasted image 20251116115607.png",
     "课程/人工智能与机器学习/Pic/Pasted image 20251116115547.png",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251116115536.png",
     "课程/人工智能与机器学习/写诗prompt.md",
-    "Prompt.md",
     "Inbox/答辩稿.md",
     "index.md",
-    "Obsidian 最佳实践.md",
     "课程/Inbox/形势与政策.md",
     "课程/模拟集成电路/第三章/未命名.md",
-    "课程/模拟集成电路/第三章/Pic/Pasted image 20251114235843.png",
     "课程/模拟集成电路/第四章/未命名.md",
-    "课程/模拟集成电路/第三章/Pic/Pasted image 20251026111025.png",
     "课程/模拟集成电路/第二章/未命名.md",
     "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
     "课程/人工智能与机器学习/AI和ML的关系.md",
     "课程/人工智能与机器学习/未命名 1.md",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251114115147.png",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251114114156.png",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251114114154.png",
     "课程/人工智能与机器学习/MambaS6、Transformer、RNN与LSTM：四大深度学习模型架构全解析.md",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251113095839.png",
-    "课程/人工智能与机器学习/Pic/Pasted image 20251113094951.png",
-    "脚本开发/Zsh + Oh My Zsh.md",
-    "计算机/tmux配置.md",
     "课程/人工智能与机器学习/Pic",
     "课程/模拟集成电路/第四章/Pic",
     "课程/模拟集成电路/第四章",
@@ -224,7 +230,6 @@
     "课程/数字集成电路/第五章",
     "课程/模拟集成电路/第三章/Pic",
     "课程/模拟集成电路/第三章",
-    "脚本开发",
-    "课程/人工智能与机器学习/FNN"
+    "脚本开发"
   ]
 }
