@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f48e0696a5777b3",
+        "id": "e09a188aeccb0110",
         "type": "tabs",
         "children": [
           {
-            "id": "ede7e71a08edf424",
+            "id": "ffc0f5f4459d6ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,8 +184,17 @@
       "i18n:I18N": false
     }
   },
-  "active": "ede7e71a08edf424",
+  "active": "ffc0f5f4459d6ddf",
   "lastOpenFiles": [
+    "课程/Inbox/生成式人工智能时代的“数字中国”：新质生产力、治理变革与青年责任.md",
+    "课程/Inbox/形势与政策.md",
+    "计算机/NVCC导入.md",
+    "计算机/网络质量测量.md",
+    "计算机/tmux.md",
+    "科研/NERF/nerf安装.md",
+    "计算机/解决双系统报错.md",
+    "科研/架构.md",
+    "科研/NERF",
     "计算机/linux环境下的网络问题.md",
     "课程/综合挑战实践课I/综合实验1简易电子琴搭建和演示.md",
     "课程/综合挑战实践课I/未命名.md",
@@ -194,7 +203,6 @@
     "课程/综合挑战实践课I/Pic/Pasted image 20251125085622.png",
     "课程/综合挑战实践课I/Pic",
     "计算机/解决Appimage相关问题(24.04)不可用.md",
-    "计算机/Untitled.md",
     "计算机/latex安装.md",
     "计算机/未命名.md",
     "课程/综合挑战实践课I/prompt.md",
@@ -215,22 +223,14 @@
     "课程/数字集成电路/Pic",
     "Obsidian 最佳实践.md",
     "计算机/obsidian.md",
-    "科研/架构.md",
     "科研/项目复述.md",
     "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
-    "课程/人工智能与机器学习/写诗prompt.md",
-    "Inbox/答辩稿.md",
-    "index.md",
-    "课程/Inbox/形势与政策.md",
-    "课程/模拟集成电路/第三章/未命名.md",
-    "课程/模拟集成电路/第四章/未命名.md",
     "课程/人工智能与机器学习/Pic",
     "课程/模拟集成电路/第四章/Pic",
     "课程/模拟集成电路/第四章",
     "课程/综合挑战实践课I",
     "课程/数字集成电路/第五章/Pic",
     "课程/数字集成电路/第五章",
-    "课程/模拟集成电路/第三章/Pic",
-    "课程/模拟集成电路/第三章"
+    "课程/模拟集成电路/第三章/Pic"
   ]
 }
