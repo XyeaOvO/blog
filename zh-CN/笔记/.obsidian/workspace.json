@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/综合挑战实践课I/安装Proteus.md",
+                "file": "课程/综合挑战实践课I/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装Proteus"
+              "title": "prompt"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "ecc4f816e473211a",
   "lastOpenFiles": [
-    "课程/综合挑战实践课I/新建工程.md",
     "课程/综合挑战实践课I/安装Proteus.md",
+    "课程/综合挑战实践课I/新建工程.md",
     "课程/综合挑战实践课I/综合实验1简易电子琴搭建和演示.md",
     "课程/综合挑战实践课I/未命名.md",
     "课程/综合挑战实践课I/prompt.md",
