@@ -1,4 +1,9 @@
+autodl开启梯子
+```
+curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/fbda30c9884184429a09bcfbfff298593e3f2968/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && source ~/.bashrc
+```
 
+---
 我给你提供了两份文件，一份是期中考试需要用到的讲义，一份是期中考试试题。对于这份考试题的每一道题目，你需要先确认其是否在讲义的范围内，如果在的话，给出其中文对照翻译和解答，数学公式用$...$括起来。
 
 ---
