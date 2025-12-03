@@ -1,6 +1,17 @@
 autodl开启梯子
 ```
-curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/fbda30c9884184429a09bcfbfff298593e3f2968/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && source ~/.bashrc
+source /etc/network_turbo
+# 一键安装Zsh4Humans
+if command -v curl >/dev/null 2>&1; then
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/romkatv/zsh4humans/v5/install)"
+else
+  sh -c "$(wget -O- https://raw.githubusercontent.com/romkatv/zsh4humans/v5/install)"
+fi
+# 回答21yyy
+# yyy1y3121352241221yy
+
+curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
+#回答
 ```
 
 ---
