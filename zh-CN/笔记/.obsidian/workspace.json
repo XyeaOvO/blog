@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/📝 Office Tool Plus 部署 & 激活速查.md",
+                "file": "课程/脑认知/期末考试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📝 Office Tool Plus 部署 & 激活速查"
+              "title": "期末考试"
             }
           }
         ]
@@ -186,11 +186,12 @@
   },
   "active": "aa815c1b301ebfb0",
   "lastOpenFiles": [
+    "计算机/📝 Office Tool Plus 部署 & 激活速查.md",
+    "课程/脑认知/期末考试.md",
     "脚本开发/数据集.md",
     "脚本开发/重启 TypeScript 语言服务器.md",
     "脚本开发/Prompt.md",
     "脚本开发/Zsh + Oh My Zsh.md",
-    "计算机/📝 Office Tool Plus 部署 & 激活速查.md",
     "计算机/终止tmux.md",
     "计算机/在 WSL 上为 mcp 安装 uv 和 uvx.md",
     "计算机/未命名.md",
@@ -211,7 +212,6 @@
     "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
     "课程/综合挑战实践课I/prompt.md",
     "课程/综合挑战实践课I/安装Proteus.md",
-    "课程/综合挑战实践课I/实验五四探针测半导体电阻率 光面.md",
     "科研/NERF",
     "课程/综合挑战实践课I/Pic/Pasted image 20251125085622.png",
     "课程/综合挑战实践课I/Pic",
