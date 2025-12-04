@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/脑认知/期末考试.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期末考试"
+              "title": "Prompt"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "aa815c1b301ebfb0",
   "lastOpenFiles": [
-    "计算机/📝 Office Tool Plus 部署 & 激活速查.md",
     "课程/脑认知/期末考试.md",
+    "计算机/📝 Office Tool Plus 部署 & 激活速查.md",
     "脚本开发/数据集.md",
     "脚本开发/重启 TypeScript 语言服务器.md",
     "脚本开发/Prompt.md",
