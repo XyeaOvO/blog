@@ -7,11 +7,28 @@ if command -v curl >/dev/null 2>&1; then
 else
   sh -c "$(wget -O- https://raw.githubusercontent.com/romkatv/zsh4humans/v5/install)"
 fi
-# 回答21yyy
+# 回答1
 # yyy1y3121352241221yy
 
+curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/e0644bd9b49f6bf15d7a34d741c0354ab6bd5cc6/install_clash.sh | bash -s "https://pokelink.xn--4gsvmh74cwxi.cn/api/v1/client/subscribe?token=81a3fc207ce3c59b9bf6bafbd5403fbb" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
+
 curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
-#回答
+
+ssh -L 9090:127.0.0.1:9090 -p 42981 root@connect.bjb1.seetacloud.com
+
+
+# 安装uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
+export PATH="$HOME/.local/bin:$PATH"
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+uv --version
+
+wget https://github.com/zellij-org/zellij/releases/download/v0.43.1/zellij-x86_64-unknown-linux-musl.tar.gz
+ tar -xvf  zellij-x86_64-unknown-linux-musl.tar.gz
+ mkdir -p $HOME/.local/bin
+mv zellij $HOME/.local/bin/
+
 ```
 
 ---

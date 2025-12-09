@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8cf1c4df2ab676",
+        "id": "ea5b85cdbfc2a3bd",
         "type": "tabs",
         "children": [
           {
-            "id": "aa815c1b301ebfb0",
+            "id": "1020610f97418a06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt.md",
+                "file": "计算机/linux环境下的网络问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "linux环境下的网络问题"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "网",
+                "query": "网络",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,8 +185,12 @@
       "i18n:I18N": false
     }
   },
-  "active": "aa815c1b301ebfb0",
+  "active": "1020610f97418a06",
   "lastOpenFiles": [
+    "科研/杂项/`HF_HOME` 和 `HUGGINGFACE_HUB_CACHE` 这两个环境变量的说明.md",
+    "计算机/conda/Miniforge安装Mamba.md",
+    "科研/深度学习代码规范：张量形状管理 SOP.md",
+    "Prompt.md",
     "课程/脑认知/期末考试.md",
     "计算机/📝 Office Tool Plus 部署 & 激活速查.md",
     "脚本开发/数据集.md",
@@ -205,13 +210,9 @@
     "计算机/网络质量测量.md",
     "计算机/常见的HTTP状态码.md",
     "课程/操作系统/计组核心知识.md",
-    "Prompt.md",
     "课程/Inbox/形势与政策.md",
     "课程/Inbox/生成式人工智能时代的“数字中国”：新质生产力、治理变革与青年责任.md",
     "课程/人工智能与机器学习/基于全连接神经网络的CIFAR-10图像分类实验报告.md",
-    "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
-    "课程/综合挑战实践课I/prompt.md",
-    "课程/综合挑战实践课I/安装Proteus.md",
     "科研/NERF",
     "课程/综合挑战实践课I/Pic/Pasted image 20251125085622.png",
     "课程/综合挑战实践课I/Pic",
