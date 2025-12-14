@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/人工智能与机器学习/未命名.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Prompt"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,8 +186,8 @@
   },
   "active": "5676f5d90586a8c0",
   "lastOpenFiles": [
-    "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
     "课程/人工智能与机器学习/未命名.md",
+    "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
     "科研/判断左右手坐标系.md",
     "课程/人工智能与机器学习/写诗prompt.md",
     "科研/深度学习代码规范：张量形状管理 SOP.md",

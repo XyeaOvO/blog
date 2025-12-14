@@ -1,5 +1,7 @@
 autodl开启梯子
 ```
+MesloLGS NF
+
 source /etc/network_turbo
 # 一键安装Zsh4Humans
 if command -v curl >/dev/null 2>&1; then
@@ -7,28 +9,32 @@ if command -v curl >/dev/null 2>&1; then
 else
   sh -c "$(wget -O- https://raw.githubusercontent.com/romkatv/zsh4humans/v5/install)"
 fi
-# 回答1
+# 回答21yyy
 # yyy1y3121352241221yy
 
-curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/e0644bd9b49f6bf15d7a34d741c0354ab6bd5cc6/install_clash.sh | bash -s "https://pokelink.xn--4gsvmh74cwxi.cn/api/v1/client/subscribe?token=81a3fc207ce3c59b9bf6bafbd5403fbb" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
+curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/e0644bd9b49f6bf15d7a34d741c0354ab6bd5cc6/install_clash.sh | bash -s "https://pokelink.xn--4gsvmh74cwxi.cn/api/v1/client/subscribe?token=90068f7fcd667b16a3f7c672c33b4940" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
 
 curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
 
-ssh -L 9090:127.0.0.1:9090 -p 42981 root@connect.bjb1.seetacloud.com
-
+ssh -L 9090:127.0.0.1:9090 -p 35992 root@connect.westd.seetacloud.com
 
 # 安装uv
 curl -LsSf https://astral.sh/uv/install.sh | sh
-export PATH="$HOME/.local/bin:$PATH"
-echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
-source ~/.zshrc
+source $HOME/.local/bin/env
 uv --version
+UV_DEFAULT_INDEX=https://pypi.tuna.tsinghua.edu.cn/simple uv sync --all-extras --dev
 
 wget https://github.com/zellij-org/zellij/releases/download/v0.43.1/zellij-x86_64-unknown-linux-musl.tar.gz
- tar -xvf  zellij-x86_64-unknown-linux-musl.tar.gz
- mkdir -p $HOME/.local/bin
+tar -xvf  zellij-x86_64-unknown-linux-musl.tar.gz
+mkdir -p $HOME/.local/bin
 mv zellij $HOME/.local/bin/
+rm zellij-x86_64-unknown-linux-musl.tar.gz
+zellij(必须在有卡情况下启动)
 
+vim ~/.ssh/authorized_keys
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKgka3jQvs9yb77x7j2/dJNDrws9yGMaiQDN7IYCetR7 xyea
+chmod 700 ~/.ssh 
+chmod 600 ~/.ssh/authorized_keys
 ```
 
 ---
