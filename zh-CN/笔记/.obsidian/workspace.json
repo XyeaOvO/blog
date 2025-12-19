@@ -11,10 +11,14 @@
             "id": "beb8f7621c770824",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "课程/综合挑战实践课I/prompt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "prompt"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "beb8f7621c770824",
   "lastOpenFiles": [
+    "课程/综合挑战实践课I/Proteus新建工程.md",
     "课程/脑认知/脑机接口及应用.md",
     "课程/脑认知/情绪与社会认知（第12讲）.md",
     "课程/脑认知/第十一讲 脑与语言-II.md",
@@ -202,7 +207,6 @@
     "课程/综合挑战实践课I/prompt.md",
     "课程/综合挑战实践课I/未命名.md",
     "课程/综合挑战实践课I/综合实验1简易电子琴搭建和演示.md",
-    "课程/综合挑战实践课I/Proteus新建工程.md",
     "课程/人工智能与机器学习/未命名.md",
     "课程/人工智能与机器学习/基于卷积神经网络的 CIFAR-10 图像分类实验报告.md",
     "科研/判断左右手坐标系.md",
