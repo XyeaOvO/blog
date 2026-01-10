@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/数字IC/未命名 2.md",
+                "file": "计算机/latex相关.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "latex相关"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "功能区",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +229,10 @@
   },
   "active": "71ad9b3e27392e7d",
   "lastOpenFiles": [
-    "课程/数字IC/未命名 1.md",
+    "计算机/latex安装.md",
+    "计算机/latex相关.md",
     "课程/数字IC/未命名 2.md",
+    "课程/数字IC/未命名 1.md",
     "课程/数字IC/未命名.md",
     "课程/数字IC/打印.md",
     "Prompt.md",
@@ -255,8 +257,6 @@
     "课程/脑认知/感觉运动.md",
     "课程/脑认知/第一讲：走进脑与认知科学.md",
     "课程/脑认知/第五讲：视觉 (Vision).md",
-    "课程/脑认知/第五讲：脑与语言-I.md",
-    "课程/脑认知/第四讲 神经科学研究方法与技术.md",
     "课程/脑认知/题目",
     "科研/NERF",
     "课程/综合挑战实践课I/Pic/Pasted image 20251125085622.png",
