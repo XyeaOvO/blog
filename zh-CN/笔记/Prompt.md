@@ -12,7 +12,7 @@ fi
 # 回答21yyy
 # yyy1y3121352241221yy
 
-curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/e0644bd9b49f6bf15d7a34d741c0354ab6bd5cc6/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
+curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/105c127f63d491deb37898224737a0f35d0ad9bb/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
 
 curl -sL https://gist.githubusercontent.com/XyeaOvO/fe8f9c52f73c1335c5193b3ccd816b6e/raw/install_clash.sh | bash -s "https://scdy03.scsub.com/apiv2/llrxqa9viitfimjy?clash=1" && ( [ -n "$ZSH_VERSION" ] && exec zsh || source ~/.bashrc )
 
