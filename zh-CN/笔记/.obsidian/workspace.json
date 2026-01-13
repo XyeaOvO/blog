@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/清理.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "清理"
+              "title": "Prompt"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "771dfe5ae3e8f215",
   "lastOpenFiles": [
-    "计算机/常见的HTTP状态码.md",
     "计算机/清理.md",
+    "计算机/常见的HTTP状态码.md",
     "计算机/uv是否会隔离环境.md",
     "课程/数字IC/第一章 引论/未命名.md",
     "课程/数字IC/打印.md",
