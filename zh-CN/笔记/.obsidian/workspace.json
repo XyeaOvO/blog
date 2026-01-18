@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
+                "file": "ASC/3. 具身世界模型优化 (30 分).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 数值相对论代码 AMSS-NCKU 优化 (30 分)"
+              "title": "3. 具身世界模型优化 (30 分)"
             }
           },
           {
@@ -229,13 +229,16 @@
   },
   "active": "3299e998a282c35e",
   "lastOpenFiles": [
-    "ASC/3. 具身世界模型优化 (30 分).md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/2. HPL 与 HPCG 基准测试（15分）.md",
+    "ASC/3. 具身世界模型优化 (30 分).md",
     "ASC/1. AI与HPC系统设计（15分）.md",
+    "ASC/培训日程.md",
+    "ASC/Pic/Pasted image 20260118144239.png",
+    "ASC/Pic/Pasted image 20260118144218.png",
+    "ASC/Pic/Pasted image 20260118144200.png",
     "ASC/需要完成的任务和提交的材料.md",
     "ASC/提案要求I. 所在大学超算活动简介（5 分）和II. 团队介绍（5 分）.md",
-    "ASC/培训日程.md",
     "ASC/预赛正式公告.md",
     "ASC/Pic/092017961539378.png",
     "ASC/Pic",
@@ -259,7 +262,6 @@
     "课程/模拟集成电路/第一章/未命名 2.md",
     "课程/模拟集成电路/第一章/未命名.md",
     "课程/模拟集成电路/第二章/未命名.md",
-    "课程/模拟集成电路/第三章/未命名.md",
     "课程/脑认知/题目",
     "科研/NERF",
     "课程/综合挑战实践课I/Pic/Pasted image 20251125085622.png",
@@ -269,9 +271,6 @@
     "课程/数字集成电路/Pic/Pasted image 20251120134116.png",
     "课程/数字集成电路/Pic/Pasted image 20251120134000.png",
     "课程/数字集成电路/Pic/Pasted image 20251120133413.png",
-    "课程/数字集成电路/Pic/Pasted image 20251120132401.png",
-    "课程/数字集成电路/Pic/Pasted image 20251120132357.png",
-    "课程/数字集成电路/Pic/Pasted image 20251120132321.png",
     "课程/数字集成电路/Pic",
     "课程/人工智能与机器学习/Pic",
     "课程/模拟集成电路/第四章/Pic"
