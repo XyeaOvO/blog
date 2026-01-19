@@ -1,3 +1,4 @@
+[Google AI Studio](https://aistudio.google.com/u/1/prompts/1R7EE5zrIvaZLei741FWFM60C9quTEftD)
 ### **Tmux 安装与配置教程**
 
 本教程将带你完成以下步骤：
