@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASC/3. 具身世界模型优化 (30 分).md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 具身世界模型优化 (30 分)"
+              "title": "Prompt"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "147b2b141f22fc4c",
   "lastOpenFiles": [
+    "未命名.md",
+    "ASC/3. 具身世界模型优化 (30 分).md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/2. HPL 与 HPCG 基准测试（15分）.md",
     "ASC/1. AI与HPC系统设计（15分）.md",
-    "ASC/3. 具身世界模型优化 (30 分).md",
     "计算机/tmux配置.md",
     "Prompt.md",
     "计算机/未命名 1.md",
@@ -204,7 +205,6 @@
     "ASC/Pic/Pasted image 20260118144200.png",
     "ASC/Pic/092017961539378.png",
     "ASC/Pic",
-    "未命名.md",
     "ASC",
     "计算机/常见的HTTP状态码.md",
     "计算机/清理.md",
