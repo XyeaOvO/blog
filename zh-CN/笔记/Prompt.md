@@ -1,5 +1,5 @@
 
- ps -o user:20,pid,cmd -p 2731173
+ ps -o user:20,pid,cmd -p  2798413
 
 autodl开启梯子
 ```
