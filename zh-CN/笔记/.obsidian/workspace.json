@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASC/3. 具身世界模型优化 (30 分).md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 具身世界模型优化 (30 分)"
+              "title": "Prompt"
+            }
+          },
+          {
+            "id": "a9e8f8047c284a4d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
             }
           }
         ]
@@ -186,9 +198,9 @@
   },
   "active": "147b2b141f22fc4c",
   "lastOpenFiles": [
+    "ASC/3. 具身世界模型优化 (30 分).md",
     "Prompt.md",
     "未命名.md",
-    "ASC/3. 具身世界模型优化 (30 分).md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/2. HPL 与 HPCG 基准测试（15分）.md",
     "ASC/1. AI与HPC系统设计（15分）.md",

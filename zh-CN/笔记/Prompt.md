@@ -1,3 +1,6 @@
+
+ ps -o user:20,pid,cmd -p 2731173
+
 autodl开启梯子
 ```
 MesloLGS NF
