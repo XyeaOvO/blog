@@ -25,12 +25,14 @@
             "id": "a9e8f8047c284a4d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -197,12 +199,15 @@
       "i18n:I18N": false
     }
   },
-  "active": "9570f173118835fc",
+  "active": "a9e8f8047c284a4d",
   "lastOpenFiles": [
-    "ASC/未命名.md",
-    "ASC/加权密度感知倒角损失 (Weighted Density-Aware Chamfer Loss, WDC-Loss).md",
-    "Prompt.md",
+    "Obsidian 最佳实践.md",
+    "index.md",
+    "ASC/预赛正式公告.md",
     "ASC/需要完成的任务和提交的材料.md",
+    "ASC/未命名.md",
+    "Prompt.md",
+    "ASC/加权密度感知倒角损失 (Weighted Density-Aware Chamfer Loss, WDC-Loss).md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/3. 具身世界模型优化 (30 分).md",
     "未命名.md",
@@ -212,7 +217,6 @@
     "计算机/未命名 1.md",
     "ASC/提案要求I. 所在大学超算活动简介（5 分）和II. 团队介绍（5 分）.md",
     "ASC/培训日程.md",
-    "ASC/预赛正式公告.md",
     "ASC/Pic/Pasted image 20260118144239.png",
     "ASC/Pic/Pasted image 20260118144218.png",
     "ASC/Pic/Pasted image 20260118144200.png",
@@ -229,8 +233,6 @@
     "计算机/latex安装.md",
     "课程/数字IC/未命名 2.md",
     "课程/数字IC/未命名.md",
-    "index.md",
-    "Obsidian 最佳实践.md",
     "课程/数字IC/第一章 引论",
     "课程/数字IC",
     "课程/脑认知/题目",
