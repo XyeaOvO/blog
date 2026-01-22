@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "ASC/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,6 +201,7 @@
   },
   "active": "a9e8f8047c284a4d",
   "lastOpenFiles": [
+    "未命名.md",
     "Obsidian 最佳实践.md",
     "index.md",
     "ASC/预赛正式公告.md",
@@ -210,7 +211,6 @@
     "ASC/加权密度感知倒角损失 (Weighted Density-Aware Chamfer Loss, WDC-Loss).md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/3. 具身世界模型优化 (30 分).md",
-    "未命名.md",
     "ASC/2. HPL 与 HPCG 基准测试（15分）.md",
     "ASC/1. AI与HPC系统设计（15分）.md",
     "计算机/tmux配置.md",
