@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASC/一个在nvidiagpu上跑的python推理项目直接放到amd上能跑吗.md",
+                "file": "ASC/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一个在nvidiagpu上跑的python推理项目直接放到amd上能跑吗"
+              "title": "未命名"
             }
           }
         ],
@@ -243,13 +243,13 @@
   },
   "active": "6c2d1e0d4c72bacd",
   "lastOpenFiles": [
+    "ASC/3. 具身世界模型优化 (30 分).md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/一个在nvidiagpu上跑的python推理项目直接放到amd上能跑吗.md",
     "Prompt.md",
     "ASC/viztracer torch.md",
     "ASC/未命名.md",
     "ASC/viztracer.md",
-    "ASC/3. 具身世界模型优化 (30 分).md",
     "ASC/1. AI与HPC系统设计（15分）.md",
     "ASC/提案要求I. 所在大学超算活动简介（5 分）和II. 团队介绍（5 分）.md",
     "ASC/需要完成的任务和提交的材料.md",
