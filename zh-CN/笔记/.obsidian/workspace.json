@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt.md",
+                "file": "ASC/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "未命名"
             }
           },
           {
@@ -200,10 +200,12 @@
   },
   "active": "6c2d1e0d4c72bacd",
   "lastOpenFiles": [
+    "未命名.md",
+    "index.md",
+    "Prompt.md",
     "ASC/未命名.md",
     "ASC/未命名 1.md",
     "ASC/3. 具身世界模型优化 (30 分).md",
-    "Prompt.md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/一个在nvidiagpu上跑的python推理项目直接放到amd上能跑吗.md",
     "ASC/viztracer torch.md",
@@ -211,9 +213,7 @@
     "ASC/1. AI与HPC系统设计（15分）.md",
     "ASC/提案要求I. 所在大学超算活动简介（5 分）和II. 团队介绍（5 分）.md",
     "ASC/需要完成的任务和提交的材料.md",
-    "未命名.md",
     "Obsidian 最佳实践.md",
-    "index.md",
     "ASC/预赛正式公告.md",
     "ASC/加权密度感知倒角损失 (Weighted Density-Aware Chamfer Loss, WDC-Loss).md",
     "ASC/2. HPL 与 HPCG 基准测试（15分）.md",
