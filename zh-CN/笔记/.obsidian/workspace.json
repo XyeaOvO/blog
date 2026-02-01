@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASC/未命名 1.md",
+                "file": "未命名 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,8 @@
               "title": "未命名 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,15 +199,16 @@
       "i18n:I18N": false
     }
   },
-  "active": "6c2d1e0d4c72bacd",
+  "active": "e8431552e2647516",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "ASC/未命名.md",
     "ASC/需要完成的任务和提交的材料.md",
     "ASC/3. 具身世界模型优化 (30 分).md",
     "科研/架构.md",
     "科研/关于渲染mesh相机距离的思考.md",
     "科研/不同任务如何求解旋转矩阵.md",
     "ASC/Prof.md",
-    "ASC/未命名.md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/培训日程.md",
     "Prompt.md",
@@ -231,7 +233,6 @@
     "ASC",
     "计算机/常见的HTTP状态码.md",
     "计算机/清理.md",
-    "计算机/uv是否会隔离环境.md",
     "课程/数字IC/第一章 引论",
     "课程/数字IC",
     "课程/脑认知/题目",
