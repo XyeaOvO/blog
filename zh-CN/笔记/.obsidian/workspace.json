@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c037929b97ddfc91",
+        "id": "c283d78915b808ba",
         "type": "tabs",
         "children": [
           {
-            "id": "b76422e60c84bb99",
+            "id": "f6fa1472f54c0315",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autodl",
+                "query": "tmux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,19 +174,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:打开Git源代码管理": false,
       "obsidian42-brat:BRAT": false,
       "i18n:I18N": false
     }
   },
-  "active": "b76422e60c84bb99",
+  "active": "9570f173118835fc",
   "lastOpenFiles": [
+    "计算机/终止tmux.md",
+    "未命名.md",
     "未命名 1.md",
+    "index.md",
+    "Prompt.md",
     "科研/透视投影几何偏差可视化prompt.md",
     "科研/Pic/Pasted image 20260204132147.png",
     "科研/Pic",
-    "未命名.md",
     "ASC/未命名.md",
     "ASC/需要完成的任务和提交的材料.md",
     "ASC/3. 具身世界模型优化 (30 分).md",
@@ -196,8 +198,6 @@
     "ASC/Prof.md",
     "ASC/4. 数值相对论代码 AMSS-NCKU 优化 (30 分).md",
     "ASC/培训日程.md",
-    "Prompt.md",
-    "index.md",
     "ASC/一个在nvidiagpu上跑的python推理项目直接放到amd上能跑吗.md",
     "ASC/viztracer torch.md",
     "ASC/viztracer.md",
