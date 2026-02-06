@@ -1,1 +1,0 @@
-viztracer --log_torch --min_duration 1ms -o profile_gpu.json script.py
