@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,10 +183,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a90fe6a8372e2868",
+  "active": "9570f173118835fc",
   "lastOpenFiles": [
-    "计算机/tmux.md",
     "计算机/终止tmux.md",
+    "计算机/tmux配置.md",
+    "计算机/tmux.md",
     "计算机/清理.md",
     "计算机/latex安装.md",
     "未命名.md",
@@ -213,7 +213,6 @@
     "ASC/提案要求I. 所在大学超算活动简介（5 分）和II. 团队介绍（5 分）.md",
     "Obsidian 最佳实践.md",
     "ASC/预赛正式公告.md",
-    "ASC/加权密度感知倒角损失 (Weighted Density-Aware Chamfer Loss, WDC-Loss).md",
     "ASC/Pic/Pasted image 20260118144239.png",
     "ASC/Pic/Pasted image 20260118144218.png",
     "ASC/Pic/Pasted image 20260118144200.png",
